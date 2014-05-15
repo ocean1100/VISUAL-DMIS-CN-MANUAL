@@ -596,11 +596,6 @@
       <param name="ImageNumber" value="11">
     </object>
     <li><object type="text/sitemap">
-      <param name="Name" value="如何进行公差评定">
-      <param name="Local" value="第七章 公差评定\7.23 如何进行公差评定.html">
-      <param name="ImageNumber" value="11">
-    </object>
-    <li><object type="text/sitemap">
       <param name="Name" value="平行度">
       <param name="Local" value="第七章 公差评定\7.3 平行度.html">
       <param name="ImageNumber" value="11">
@@ -683,6 +678,11 @@
     <li><object type="text/sitemap">
       <param name="Name" value="位置度">
       <param name="Local" value="第七章 公差评定\7.19 位置度.html">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="如何进行公差评定">
+      <param name="Local" value="第七章 公差评定\7.23 如何进行公差评定.html">
       <param name="ImageNumber" value="11">
     </object>
     </ul>

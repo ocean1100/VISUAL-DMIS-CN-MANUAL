@@ -14,15 +14,15 @@ SupportMas_MPJ=1
 [Target:Microsoft HTML Help]
 ResultFileName=!SSL!\Microsoft_HTML_Help\VISUAL_DMIS使用帮助手册.chm
 SSLayoutType=1
-CreateProjectTime=13:00, May 15, 2014
+CreateProjectTime=13:33, May 15, 2014
 CreateProjectUser=Administrator
 SupportMas_MPJ=1
 ActionID For Generation=1005
 Remove Folder with prompt=1
 ViewFileName=!SSL!\Microsoft_HTML_Help\VISUAL_DMIS使用帮助手册.chm
 ResultStatus=0
-BuildTimeHi=30371834
-BuildTimeLow=-1611829725
+BuildTimeHi=30371839
+BuildTimeLow=1066996944
 Enable Result Dialog=1
 [Target:FlashHelp]
 ResultFileName=!SSL!\FlashHelp\VISUAL_DMIS使用帮助手册.htm
@@ -61,7 +61,7 @@ Project TOC List=C:\Users\Administrator\Documents\WinCHM Projects\Project5_outpu
 Project Index List=C:\Users\Administrator\Documents\WinCHM Projects\Project5_output\VISUAL DMIS使用帮助手册.tridxl
 Project Glossary List=C:\Users\Administrator\Documents\WinCHM Projects\Project5_output\VISUAL DMIS使用帮助手册.trglol
 Default Topic=C:\Users\Administrator\Documents\WinCHM Projects\Project5_output\前言\0-0.html
-Build Tags0=3253;
+Build Tags0=1684;
 Build Tags=
 Build Expression=
 Language ID=2052
