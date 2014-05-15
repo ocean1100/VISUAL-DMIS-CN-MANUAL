@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<link rel="stylesheet" href="../hh.css" type="text/css">
+<title>测量程序</title><style type="text/css">
+<!--
+body { margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; }
+-->
+</style>
+<meta name="generator" content="Adobe RoboHelp - www.adobe.com">
+</head>
+<body>
+<table width="100%" height="117" border="0" cellpadding="0" cellspacing="0" >
+  <tr>
+    <td height="53" align="right" background="../images/bg.gif"><img src="../images/logo.jpg" width="257" height="53" /></td>
+  </tr>
+  <tr>
+    <td height="64" class="bt" background="../images/bg1.gif"><a href="index.html">DMIS自学习功能应用</a></td>
+  </tr>
+</table>
+
+<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="1%" bgcolor="#525655">&nbsp;</td>
+    <td width="98%" align="center" valign="top" bgcolor="#F7FAF3"><table width="100%" height="56" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+          <td bgcolor="#E7E7E7" class="bt1"><a href="index.html">DMIS自学习功能应用</a>-测量程序</td>
+      </tr>
+    </table>
+    <br>
+    <table width="90%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+          <td valign="top" class="wen">
+
+<p>在使用坐标机进行工件检测时，首先检查外部环境是否符合要求，如压缩空气的气压，机器使用的电压等是否达到要求；其次，机器回零，检查控制器，操控手柄的功能是否正常，如是自动测头，测头回转是否正常，结束后，进入工件测量的测量过程。现就测量过程说明如下：</p>
+<ul>
+<li>根据测量的工件和图纸确定测量方案，包括测针的选取、工件的装夹与紧固，保证工件没有晃动且无变形，去除工件表面的影响测量结果的毛刺与油污；</li>
+<li>测针的组装与校验：按照测量方案确定的测针完成测针组装，并定义测量过程中所需的测头角度，校验测头；</li>
+<li><a name="OLE_LINK69">安装工件，保证测头转角后，工件的测量行程满足要求，在测量过程中不能出现超程现象，另外，工件的摆放尽量与测头方向一致，以免测量过程中出现测针杆与工件碰撞现象，造成测量数据异常或错误出现； </a></li>
+</ul>
+<ul>
+<li>点击测量软件界面右上角位置图标 <img align="absmiddle" height="21" src="9.2 测量程序_clip_image002.jpg" width="64">，切换到自学习打开状态 <img align="absmiddle" height="22" src="9.2 测量程序_clip_image004.jpg" width="64">，在DMIS编辑工具条上点击模式按钮，选择手动模式，弹出如下程序头，准备创建坐标系的元素测量（注意测量参数要合理设置），</img></img></li>
+</ul>
+<blockquote>
+  <code>$$************************************************<br>
+    $$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visual DMIS    <br>
+    $$************************************************<br>
+    DMISMN/'Visual DMIS build  program','04.0'<br>
+    UNITS/MM,ANGDEC &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$ 使用数据单位<br>
+    WKPLAN/XYPLAN &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$ 工作平面<br>
+    MODE/AUTO,PROG,MAN &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$ 工作模式<br>
+    FLY/ON&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$ 飞行模式：开<br>
+    PRCOMP/ON &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$ 测头补偿：开<br>
+    GECOMP/ON&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$ 几何补偿：开<br>
+    TECOMP/OFF &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$ 温度补偿：开<br>
+    GEOALG/CIRCLE,LSTSQR &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$ 圆算法：最小二乘法<br>
+    FEDRAT/POSVEL,MMPS,73 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$ 定位速度<br>
+    FEDRAT/MESVEL,MMPS,6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$ 测量速度<br>
+    SNSET/APPRCH,5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$ 接近距离<br>
+    SNSET/RETRCT,10 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$ 回退距离<br>
+    SNSET/SEARCH,12 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$ 搜索距离<br>
+    SNSET/DEPTH,3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$ 测量深度<br>
+    SNSET/CLRSRF,20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$  安全距离<br>
+    DID(REPORT)=DEVICE/STOR,$<br>
+    'F:\visual\sheji4\VismsTmp.vsrpt' <br>
+    $$ 定义设备<br>
+    OPEN/DID(REPORT),FDATA,V(FORMAT2),OUTPUT,APPEND<br>
+    $$ 打开设备，数据输出时，在原文件末尾追加<br>
+    RECALL/D(MCS) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$ 调用机器坐标系<br>
+    SNSLCT/S(SN15) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$ 调用已定义测头<br>
+    $$********************************************<br>
+    $$ 以上为模式选择后，自动产生的程序头<br>
+    MODE/MAN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$ 用户设定的运行模式</code><p>
+</blockquote>
+<ul>
+  <li>测量建立坐标系所需要的元素，使用元素创建坐标系，或使用&ldquo;321建立坐标系&rdquo;建立坐标系；</li>
+  <li>更换机器运行模式，如程序模式，首先将机器移到一个安全位置，保证运行安全，然后设置好测量元素的测量参数，测量元素。需要注意的是在元素测量时要注意添加定位点，以保证机器运行安全，以搭积木形式完成所需元素的测量，最后将机器移动到安全位置，所有这些操作都会产生DMIS语句；</li>
+  <li>所需元素测量结束后，根据图纸要求完成公差评定，在程序窗口会自动记录此过程并输出到输出报表窗口；</li>
+  <li>关闭自学习功能，运行已做成的程序，验证此程序的有效性，除了需要手动测量创建坐标系的元素外，其余动作机器会自动完成，注意手动测量元素时要与创建程序时次序一致，验证时，机器运行速度不能太高，注意手柄上速度旋钮和急停的使用，保证机器运行安全。</li>
+</ul>
+          </td>
+      </tr>
+    </table>
+    <br>
+    </td>
+    <td width="1%" bgcolor="#525655">&nbsp;</td>
+  </tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="40" align="center" valign="middle" bgcolor="#525655" class="down">&copy;&nbsp;2014 Forward Corporation.  All rights reserved.</td>
+  </tr>
+</table>
+</body>
+</html>

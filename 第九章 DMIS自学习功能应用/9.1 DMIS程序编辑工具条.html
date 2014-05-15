@@ -1,0 +1,122 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<link rel="stylesheet" href="../hh.css" type="text/css">
+<title>DMIS程序编辑工具条</title><style type="text/css">
+<!--
+body { margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; }
+-->
+</style>
+<meta name="generator" content="Adobe RoboHelp - www.adobe.com">
+</head>
+<body>
+<table width="100%" height="117" border="0" cellpadding="0" cellspacing="0" >
+  <tr>
+    <td height="53" align="right" background="../images/bg.gif"><img src="../images/logo.jpg" width="257" height="53" /></td>
+  </tr>
+  <tr>
+    <td height="64" class="bt" background="../images/bg1.gif"><a href="index.html">DMIS自学习功能应用</a></td>
+  </tr>
+</table>
+
+<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="1%" bgcolor="#525655">&nbsp;</td>
+    <td width="98%" align="center" valign="top" bgcolor="#F7FAF3"><table width="100%" height="56" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+          <td bgcolor="#E7E7E7" class="bt1"><a href="index.html">DMIS自学习功能应用</a>-DMIS程序编辑工具条</td>
+      </tr>
+    </table>
+    <br>
+    <table width="90%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+          <td valign="top" class="wen">
+
+
+<p>在测量软件界面右上角图标 <img align="absmiddle" height="21" src="9.1 DMIS程序编辑工具条_clip_image002.jpg" width="64">上单击，图标变化如右图：<img align="absmiddle" height="22" src="9.1 DMIS程序编辑工具条_clip_image004.jpg" width="64"> ，表示此时处于自学习状态。通过点击图形窗口工具条最左端的图形按钮 <img align="absmiddle" height="26" src="9.1 DMIS程序编辑工具条_clip_image006.jpg" width="25">，来打开DMIS编辑/运行窗口。显示 <img align="absmiddle" height="26" src="9.1 DMIS程序编辑工具条_clip_image006_0000.jpg" width="25">与隐藏&nbsp;<img align="absmiddle" height="26" src="9.1 DMIS程序编辑工具条_clip_image008.jpg" width="23">按钮来实现程序编辑器工具条及DMIS程序显示区的显示与隐藏。程序编辑器工具条如下图9-2所示：</p>
+<p align="center">
+<img src="9.1 DMIS程序编辑工具条_clip_image018_2.jpg" width="475" height="233" usemap="#Map"></p>
+
+<p align="center">图9-2</p>
+<ul>
+<li><a name="chengxumoshi">程序模式</a>&nbsp;<img align="absmiddle" height="24" src="9.1 DMIS程序编辑工具条_clip_image020.jpg" width="21"/></li>
+
+<p>弹出式级联菜单，如下图三种模式，用于控制机器运行模式，分述如下：</p>
+<img align="center" height="75" hspace="12" src="9.1 DMIS程序编辑工具条_clip_image022.jpg" width="185">
+<br>
+<br>
+
+<ul>
+<li> AUTO,PROG,MAN：按照测量软件内部定义，完成测量和测量块内部定位运动；</img></li>
+
+<li>PROG,MAN：按照编程人员在自学习过程中实际测量点和设定定位点，完成测量和定位运动；</li>
+<li>MAN：由客户用操作手柄控制机器，完成测量和定位运动；</li>
+</ul>
+
+<p align="left">当选择AUTO,PROG,MAN时，在DMIS窗口生成如下语句：<br>
+  MODE/AUTO,PROG,MAN</br></p>
+
+<li><a name="shezhidangqiangongzuopingmian">设置当前工作平面</a>&nbsp;<img align="absmiddle" height="22" src="9.1 DMIS程序编辑工具条_clip_image024.jpg" width="21"/></li>
+
+<p><img align="left" height="77" hspace="12" src="9.1 DMIS程序编辑工具条_clip_image026.jpg" width="154">弹出式级联菜单，如右图三个基准平面，用于二维元素测量时测头的补偿计算，也就是说以所选的工作平面作为补偿计算方向，并在DMIS窗口生成语句。当选择XY平面时，生成如下语句：<br>
+  WKPLAN/XYPLAN</br></img></p>
+
+<li><a name="yundongdaozhidingweizhi">运动到指定位置</a>&nbsp;<img align="absmiddle" height="20" src="9.1 DMIS程序编辑工具条_clip_image028.jpg" width="19"/></li>
+
+<p>功能按钮，产生DMIS程序中的定位语句。将机器移动到某一需要位置，点击该按钮，在DMIS窗口生成语句：<br>
+  GOTO/400.2334,300.7580,234.375</br></p>
+
+<li><a name="shanchudangqian">删除当前的DMIS程序</a>&nbsp;<img align="absmiddle" height="24" src="9.1 DMIS程序编辑工具条_clip_image030.jpg" width="21"/></li>
+
+<p>功能按钮，清除DMIS窗口中的所有DMIS语句。</p>
+
+<li><a name="duixiangdingyi">对象定义语句</a> <img align="absmiddle" height="21" src="9.1 DMIS程序编辑工具条_clip_image032.jpg" width="21"></img></li>
+
+<p><a name="OLE_LINK67"></a><a name="OLE_LINK66">接受图标，在DMIS标准中，元素必须先定义，后测量。将数据库中的元素拖到此图标并释放鼠标左键，将在DMIS程序窗口中的产生元素定义语句，如点定义语句： </a><br>
+  F(point_51)=FEAT/POINT,CART,-32.4876,-332.4714,-11.6500,$<br>
+  -0.8778,0.4791,0.0889</br></br></p>
+
+<li><a name="duixiangshuchu">对象输出语句</a> <img align="absmiddle" height="19" src="9.1 DMIS程序编辑工具条_clip_image034.jpg" width="20"/></li>
+
+<p><a name="OLE_LINK68">接受图标，将数据库中的元素拖到此图标并释放鼠标左键，将在DMIS程序窗口中的产生元素输出语句，如点元素输出语句： </a><br>
+  OUTPUT/FA(point_51) </br></p>
+
+<li><a name="yuansuceliang">元素测量语句</a> <img align="absmiddle" height="22" src="9.1 DMIS程序编辑工具条_clip_image036.jpg" width="20"/></li>
+
+<p>接受图标，将数据库中的元素拖到此图标并释放鼠标左键，将在DMIS程序窗口中的产生元素测量语句，如圆元素测量语句：<br>
+  MEAS/CIRCLE,F(CR2),4<br>
+  ENDMES<br>
+  此处的测量语句是在自动模式下可以运行的测量语句，如果在程序模式下运行，程序会报错，提示没有测量点。 </p>
+
+<li><a name="zhuijiacharu">追加/插入模式</a>&nbsp;<img align="absmiddle" height="26" src="9.1 DMIS程序编辑工具条_clip_image038.jpg" width="25"/></li>
+
+<p>切换按钮，在按下与弹起之间切换，默认处于按下状态。当处于按下状态时，生成的DMIS程序语句添加到程序末尾；当处于弹起状态时，在当前光标所在行的下一行位置插入新生成的DMIS程序语句。</p>
+</ul>
+          </td>
+      </tr>
+    </table>
+    <br>
+    </td>
+    <td width="1%" bgcolor="#525655">&nbsp;</td>
+  </tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="40" align="center" valign="middle" bgcolor="#525655" class="down">&copy;&nbsp;2014 Forward Corporation.  All rights reserved.</td>
+  </tr>
+</table>
+
+<map name="Map">
+  <area shape="rect" coords="85,13,244,40" href="#chengxumoshi" title="程序模式">
+  <area shape="rect" coords="212,40,448,65" href="#shezhidangqiangongzuopingmian" title="设置当前工作平面">
+  <area shape="rect" coords="14,65,239,87" href="#yundongdaozhidingweizhi" title="运动到指定位置">
+  <area shape="rect" coords="213,86,467,112" href="#shanchudangqian" title="删除当前的DMIS程序">
+  <area shape="rect" coords="50,113,245,140" href="#duixiangdingyi" title="对象定义语句">
+  <area shape="rect" coords="209,141,399,168" href="#duixiangshuchu" title="对象输出语句">
+  <area shape="rect" coords="53,169,244,195" href="#yuansuceliang" title="元素测量语句">
+  <area shape="rect" coords="213,195,405,221" href="#zhuijiacharu" title="追加/插入模式">
+</map>
+</body>
+</html>

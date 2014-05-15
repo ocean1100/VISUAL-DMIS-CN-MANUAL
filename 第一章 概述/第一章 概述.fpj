@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="2" minorversion="0">
+	<folders>
+		<folder>
+			<name>1.4 说明</name>
+		</folder>
+	</folders>
+	<topics>
+		<topic>
+			<name>1.1 软件功能.html</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>1.2 软件对计算机的配置需求.html</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>1.3 软件安装.html</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>1.5 开机操作流程.html</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>index.html</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+	</topics>
+</rhpml>

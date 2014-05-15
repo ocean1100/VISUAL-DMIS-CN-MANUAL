@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="2" minorversion="0">
+	<folders>
+		<folder>
+			<name>2.2.2.1 系统设置</name>
+		</folder>
+	</folders>
+	<topics>
+		<topic>
+			<name>2.2.2.2 测头组装.html</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>2.2.2.3 工具条.html</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>2.2.2.4 远程键盘.html</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>index.html</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+	</topics>
+</rhpml>

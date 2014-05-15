@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="2" minorversion="0">
+	<folders>
+		<folder>
+			<name>2.2 系统主菜单</name>
+		</folder>
+		<folder>
+			<name>2.4 图形窗口</name>
+		</folder>
+		<folder>
+			<name>2.6 数据库区</name>
+		</folder>
+		<folder>
+			<name>2.7 系统状态1区</name>
+		</folder>
+	</folders>
+	<topics>
+		<topic>
+			<name>2.1 测量界面概述.html</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>2.10 DMIS程序区.html</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>2.3 主工具条.html</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>2.5 报表窗口.html</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>2.8 系统状态2区.html</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>2.9 数据显示区.html</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>index.html</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+	</topics>
+</rhpml>

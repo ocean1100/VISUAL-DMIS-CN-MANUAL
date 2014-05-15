@@ -1,0 +1,694 @@
+﻿<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+  <param name="Font" value=",8,0">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DMIS程序编辑工具条">
+    <param name="Name" value="DMIS程序编辑工具条">
+    <param name="Local" value="第九章 DMIS自学习功能应用\9.1 DMIS程序编辑工具条.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DMIS程序区">
+    <param name="Name" value="DMIS程序区">
+    <param name="Local" value="第二章 测量界面说明\2.10 DMIS程序区.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DMIS自学习功能应用">
+    <param name="Name" value="DMIS自学习功能应用">
+    <param name="Local" value="第九章 DMIS自学习功能应用\index.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RTP20校验">
+    <param name="Name" value="RTP20校验">
+    <param name="Local" value="第三章 测头组装与应用\3.6 RTP20校验.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="半径">
+    <param name="Name" value="半径">
+    <param name="Local" value="第七章 公差评定\7.10 半径.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="帮助">
+    <param name="Name" value="帮助">
+    <param name="Local" value="第二章 测量界面说明\2.2 系统主菜单\2.2.4 帮助.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="报表窗口">
+    <param name="Name" value="报表窗口">
+    <param name="Local" value="第八章 报表输出\8.1 报表窗口.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="报表工具条">
+    <param name="Name" value="报表工具条">
+    <param name="Local" value="第八章 报表输出\8.2 报表工具条.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="报表输出">
+    <param name="Name" value="报表输出">
+    <param name="Local" value="第八章 报表输出\index.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="测量程序">
+    <param name="Name" value="测量程序">
+    <param name="Local" value="第九章 DMIS自学习功能应用\9.2 测量程序.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="测量点">
+    <param name="Name" value="测量点">
+    <param name="Local" value="第二章 测量界面说明\2.2 系统主菜单\2.2.2 设置\2.2.2.1 系统设置\2.2.2.1.5 测量点.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="测量界面概述">
+    <param name="Name" value="测量界面概述">
+    <param name="Local" value="第二章 测量界面说明\2.1 测量界面概述.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="测量界面说明">
+    <param name="Name" value="测量界面说明">
+    <param name="Local" value="第二章 测量界面说明\index.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="测量元素数据库">
+    <param name="Name" value="测量元素数据库">
+    <param name="Local" value="第二章 测量界面说明\2.6 数据库区\2.6.1 测量元素数据库.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="测头安装校验">
+    <param name="Name" value="测头安装校验">
+    <param name="Local" value="第三章 测头组装与应用\3.3 测头安装校验.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="测头测量参数设置">
+    <param name="Name" value="测头测量参数设置">
+    <param name="Local" value="第三章 测头组装与应用\3.5 测头测量参数设置.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="测头数据库">
+    <param name="Name" value="测头数据库">
+    <param name="Local" value="第二章 测量界面说明\2.6 数据库区\2.6.3 测头数据库.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="测头组装">
+    <param name="Name" value="测头组装">
+    <param name="Local" value="第三章 测头组装与应用\3.1 测头组装.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="测头组装与应用">
+    <param name="Name" value="测头组装与应用">
+    <param name="Local" value="第三章 测头组装与应用\index.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="程序">
+    <param name="Name" value="程序">
+    <param name="Local" value="第二章 测量界面说明\2.2 系统主菜单\2.2.2 设置\2.2.2.1 系统设置\2.2.2.1.11 程序.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="程序运行">
+    <param name="Name" value="程序运行">
+    <param name="Local" value="第九章 DMIS自学习功能应用\9.3 程序运行、调试工具条.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="垂直">
+    <param name="Name" value="垂直">
+    <param name="Local" value="第五章 元素构造\5.8 垂直.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="垂直度">
+    <param name="Name" value="垂直度">
+    <param name="Local" value="第七章 公差评定\7.4 垂直度.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="第二部分">
+    <param name="Name" value="第二部分">
+    <param name="Local" value="第二章 测量界面说明\2.4 图形窗口\2.4.1 视图浏览设置工具条\第二部分.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="第三部分">
+    <param name="Name" value="第三部分">
+    <param name="Local" value="第二章 测量界面说明\2.4 图形窗口\2.4.1 视图浏览设置工具条\第三部分.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="点轮廓度">
+    <param name="Name" value="点轮廓度">
+    <param name="Local" value="第二章 测量界面说明\2.2 系统主菜单\2.2.3 显示\点轮廓度.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="点元素">
+    <param name="Name" value="点元素">
+    <param name="Local" value="第四章 元素测量\4.2 点元素.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="定义测头">
+    <param name="Name" value="定义测头">
+    <param name="Local" value="第三章 测头组装与应用\3.2 定义测头.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="对称度">
+    <param name="Name" value="对称度">
+    <param name="Local" value="第七章 公差评定\7.17 对称度.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="方键槽元素">
+    <param name="Name" value="方键槽元素">
+    <param name="Local" value="第四章 元素测量\4.12 方键槽元素.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="概述">
+    <param name="Name" value="概述">
+    <param name="Local" value="第一章 概述\index.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="工具条">
+    <param name="Name" value="工具条">
+    <param name="Local" value="第二章 测量界面说明\2.2 系统主菜单\2.2.2 设置\2.2.2.3 工具条.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="公差评定">
+    <param name="Name" value="公差评定">
+    <param name="Local" value="第七章 公差评定\index.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="公差数据库">
+    <param name="Name" value="公差数据库">
+    <param name="Local" value="第二章 测量界面说明\2.6 数据库区\2.6.2 公差数据库.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="合并坐标系">
+    <param name="Name" value="合并坐标系">
+    <param name="Local" value="第六章 坐标系\6.7 合并坐标系.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="机器">
+    <param name="Name" value="机器">
+    <param name="Local" value="第二章 测量界面说明\2.2 系统主菜单\2.2.2 设置\2.2.2.1 系统设置\2.2.2.1.6 机器.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="夹角">
+    <param name="Name" value="夹角">
+    <param name="Local" value="第七章 公差评定\7.2 夹角.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="建立坐标系">
+    <param name="Name" value="建立坐标系">
+    <param name="Local" value="第六章 坐标系\6.1 3-2-1建立坐标系.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="键盘">
+    <param name="Name" value="键盘">
+    <param name="Local" value="第一章 概述\1.4 说明\1.4.1 键盘.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="警告">
+    <param name="Name" value="警告">
+    <param name="Local" value="第二章 测量界面说明\2.2 系统主菜单\2.2.2 设置\2.2.2.1 系统设置\2.2.2.1.2 警告.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="镜像">
+    <param name="Name" value="镜像">
+    <param name="Local" value="第五章 元素构造\5.11 镜像.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="距离">
+    <param name="Name" value="距离">
+    <param name="Local" value="第七章 公差评定\7.1 距离.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="开机操作流程">
+    <param name="Name" value="开机操作流程">
+    <param name="Local" value="第一章 概述\1.5 开机操作流程.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="控件的使用">
+    <param name="Name" value="控件的使用">
+    <param name="Local" value="第一章 概述\1.4 说明\1.4.3 控件的使用.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="宽度">
+    <param name="Name" value="宽度">
+    <param name="Local" value="第七章 公差评定\7.18 宽度（长度）.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="两点偏移坐标系">
+    <param name="Name" value="两点偏移坐标系">
+    <param name="Local" value="第六章 坐标系\6.4 两点偏移坐标系.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="面轮廓度">
+    <param name="Name" value="面轮廓度">
+    <param name="Local" value="第七章 公差评定\7.22 面轮廓度.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="面元素">
+    <param name="Name" value="面元素">
+    <param name="Local" value="第四章 元素测量\4.4 面元素.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="名称">
+    <param name="Name" value="名称">
+    <param name="Local" value="第二章 测量界面说明\2.2 系统主菜单\2.2.2 设置\2.2.2.1 系统设置\2.2.2.1.4 名称.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="拟合坐标系">
+    <param name="Name" value="拟合坐标系">
+    <param name="Local" value="第六章 坐标系\6.6 拟合坐标系.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="批量定义测头">
+    <param name="Name" value="批量定义测头">
+    <param name="Local" value="第三章 测头组装与应用\3.7 批量定义测头.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="偏移平面">
+    <param name="Name" value="偏移平面">
+    <param name="Local" value="第五章 元素构造\5.10 偏移平面.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="平行">
+    <param name="Name" value="平行">
+    <param name="Local" value="第五章 元素构造\5.7 平行.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="平行度">
+    <param name="Name" value="平行度">
+    <param name="Local" value="第七章 公差评定\7.3 平行度.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="平面度">
+    <param name="Name" value="平面度">
+    <param name="Local" value="第七章 公差评定\7.7 平面度.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="平移坐标系">
+    <param name="Name" value="平移坐标系">
+    <param name="Local" value="第六章 坐标系\6.2 平移坐标系.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="倾斜度">
+    <param name="Name" value="倾斜度">
+    <param name="Local" value="第七章 公差评定\7.5 倾斜度.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="球元素">
+    <param name="Name" value="球元素">
+    <param name="Local" value="第四章 元素测量\4.8 球元素.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="曲面元素">
+    <param name="Name" value="曲面元素">
+    <param name="Local" value="第四章 元素测量\4.14 曲面元素.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="曲线元素">
+    <param name="Name" value="曲线元素">
+    <param name="Local" value="第四章 元素测量\4.13 曲线元素.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="全跳动">
+    <param name="Name" value="全跳动">
+    <param name="Local" value="第七章 公差评定\7.15 全跳动.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="如何进行公差评定">
+    <param name="Name" value="如何进行公差评定">
+    <param name="Local" value="第七章 公差评定\7.23 如何进行公差评定.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="如何进行元素测量">
+    <param name="Name" value="如何进行元素测量">
+    <param name="Local" value="第四章 元素测量\4.15 如何进行元素测量.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="如何进行元素构造">
+    <param name="Name" value="如何进行元素构造">
+    <param name="Local" value="第五章 元素构造\5.17 如何进行元素构造.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="软件安装">
+    <param name="Name" value="软件安装">
+    <param name="Local" value="第一章 概述\1.3 软件安装.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="软件功能">
+    <param name="Name" value="软件功能">
+    <param name="Local" value="第一章 概述\1.1 软件功能.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="三点偏移坐标系">
+    <param name="Name" value="三点偏移坐标系">
+    <param name="Local" value="第六章 坐标系\6.5 三点偏移坐标系.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="设备">
+    <param name="Name" value="设备">
+    <param name="Local" value="第二章 测量界面说明\2.2 系统主菜单\2.2.2 设置\2.2.2.1 系统设置\2.2.2.1.9 设备.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="设置">
+    <param name="Name" value="设置">
+    <param name="Local" value="第二章 测量界面说明\2.2 系统主菜单\2.2.2 设置\index.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="视图浏览设置工具条">
+    <param name="Name" value="视图浏览设置工具条">
+    <param name="Local" value="第二章 测量界面说明\2.4 图形窗口\2.4.1 视图浏览设置工具条\第一部分.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="输出">
+    <param name="Name" value="输出">
+    <param name="Local" value="第二章 测量界面说明\2.2 系统主菜单\2.2.2 设置\2.2.2.1 系统设置\2.2.2.1.10 输出.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="鼠标">
+    <param name="Name" value="鼠标">
+    <param name="Local" value="第一章 概述\1.4 说明\1.4.2 鼠标.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="数据库区">
+    <param name="Name" value="数据库区">
+    <param name="Local" value="第二章 测量界面说明\2.6 数据库区\index.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="数据输出">
+    <param name="Name" value="数据输出">
+    <param name="Local" value="第八章 报表输出\8.3 数据输出.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="数据显示区">
+    <param name="Name" value="数据显示区">
+    <param name="Local" value="第二章 测量界面说明\2.9 数据显示区.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="说明">
+    <param name="Name" value="说明">
+    <param name="Local" value="第一章 概述\1.4 说明\index.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="提取">
+    <param name="Name" value="提取">
+    <param name="Local" value="第五章 元素构造\5.6 提取.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="调试工具条">
+    <param name="Name" value="调试工具条">
+    <param name="Local" value="第九章 DMIS自学习功能应用\9.3 程序运行、调试工具条.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="同轴度">
+    <param name="Name" value="同轴度">
+    <param name="Local" value="第七章 公差评定\7.16 同轴度（同心度）.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="投影">
+    <param name="Name" value="投影">
+    <param name="Local" value="第五章 元素构造\5.1 投影.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="图形">
+    <param name="Name" value="图形">
+    <param name="Local" value="第二章 测量界面说明\2.2 系统主菜单\2.2.2 设置\2.2.2.1 系统设置\2.2.2.1.3 图形.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="图形报表输出">
+    <param name="Name" value="图形报表输出">
+    <param name="Local" value="第八章 报表输出\8.4 图形报表输出.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="图形处理器">
+    <param name="Name" value="图形处理器">
+    <param name="Local" value="第二章 测量界面说明\2.2 系统主菜单\2.2.3 显示\图形处理器.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="图形窗口">
+    <param name="Name" value="图形窗口">
+    <param name="Local" value="第二章 测量界面说明\2.4 图形窗口\index.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="椭圆元素">
+    <param name="Name" value="椭圆元素">
+    <param name="Local" value="第四章 元素测量\4.9 椭圆元素.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="位置度">
+    <param name="Name" value="位置度">
+    <param name="Local" value="第七章 公差评定\7.19 位置度.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="温度">
+    <param name="Name" value="温度">
+    <param name="Local" value="第二章 测量界面说明\2.2 系统主菜单\2.2.2 设置\2.2.2.1 系统设置\2.2.2.1.7 温度.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="文件">
+    <param name="Name" value="文件">
+    <param name="Local" value="第二章 测量界面说明\2.2 系统主菜单\2.2.1 文件.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="系统">
+    <param name="Name" value="系统">
+    <param name="Local" value="第二章 测量界面说明\2.2 系统主菜单\2.2.2 设置\2.2.2.1 系统设置\2.2.2.1.1 系统.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="系统设置">
+    <param name="Name" value="系统设置">
+    <param name="Local" value="第二章 测量界面说明\2.2 系统主菜单\2.2.2 设置\2.2.2.1 系统设置\index 系统设置.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="系统主菜单">
+    <param name="Name" value="系统主菜单">
+    <param name="Local" value="第二章 测量界面说明\2.2 系统主菜单\index.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="系统状态1区">
+    <param name="Name" value="系统状态1区">
+    <param name="Local" value="第二章 测量界面说明\2.7 系统状态1区\index.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="系统状态2区">
+    <param name="Name" value="系统状态2区">
+    <param name="Local" value="第二章 测量界面说明\2.8 系统状态2区.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="系统状态栏">
+    <param name="Name" value="系统状态栏">
+    <param name="Local" value="第二章 测量界面说明\2.7 系统状态1区\2.7.1 系统状态栏.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="显示">
+    <param name="Name" value="显示">
+    <param name="Local" value="第二章 测量界面说明\2.2 系统主菜单\2.2.3 显示\index.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="限制">
+    <param name="Name" value="限制">
+    <param name="Local" value="第五章 元素构造\5.13 限制.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="线轮廓度">
+    <param name="Name" value="线轮廓度">
+    <param name="Local" value="第七章 公差评定\7.21 线轮廓度.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="线元素">
+    <param name="Name" value="线元素">
+    <param name="Local" value="第四章 元素测量\4.3 线元素.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="相交">
+    <param name="Name" value="相交">
+    <param name="Local" value="第五章 元素构造\5.2 相交.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="相切">
+    <param name="Name" value="相切">
+    <param name="Local" value="第五章 元素构造\5.5 相切.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="校验测头">
+    <param name="Name" value="校验测头">
+    <param name="Local" value="第三章 测头组装与应用\3.4 校验测头.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="校验规">
+    <param name="Name" value="校验规">
+    <param name="Local" value="第二章 测量界面说明\2.2 系统主菜单\2.2.2 设置\2.2.2.1 系统设置\2.2.2.1.8 校验规.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="虚拟终端">
+    <param name="Name" value="虚拟终端">
+    <param name="Local" value="第二章 测量界面说明\2.2 系统主菜单\2.2.3 显示\虚拟终端.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="旋转">
+    <param name="Name" value="旋转">
+    <param name="Local" value="第五章 元素构造\5.12 旋转.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="旋转坐标系">
+    <param name="Name" value="旋转坐标系">
+    <param name="Local" value="第六章 坐标系\6.3 旋转坐标系.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="移动">
+    <param name="Name" value="移动">
+    <param name="Local" value="第五章 元素构造\5.9 移动.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="用户须知">
+    <param name="Name" value="用户须知">
+    <param name="Local" value="前言\0-0.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="右键菜单">
+    <param name="Name" value="右键菜单">
+    <param name="Local" value="第九章 DMIS自学习功能应用\9.4 右键菜单.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="元素测量">
+    <param name="Name" value="元素测量">
+    <param name="Local" value="第四章 元素测量\index.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="元素的测量">
+    <param name="Name" value="元素的测量">
+    <param name="Local" value="第四章 元素测量\4.1 元素的测量.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="元素端点">
+    <param name="Name" value="元素端点">
+    <param name="Local" value="第五章 元素构造\5.16 元素端点.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="元素构造">
+    <param name="Name" value="元素构造">
+    <param name="Local" value="第五章 元素构造\index.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="元素误差分析输出">
+    <param name="Name" value="元素误差分析输出">
+    <param name="Local" value="第八章 报表输出\8.5 元素误差分析输出.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="元素转换">
+    <param name="Name" value="元素转换">
+    <param name="Local" value="第五章 元素构造\5.15 元素转换.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="圆度">
+    <param name="Name" value="圆度">
+    <param name="Local" value="第七章 公差评定\7.8 圆度.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="圆弧元素">
+    <param name="Name" value="圆弧元素">
+    <param name="Local" value="第四章 元素测量\4.10 圆弧元素.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="圆键槽元素">
+    <param name="Name" value="圆键槽元素">
+    <param name="Local" value="第四章 元素测量\4.11 圆键槽元素.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="圆跳动">
+    <param name="Name" value="圆跳动">
+    <param name="Local" value="第七章 公差评定\7.14 圆跳动.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="圆元素">
+    <param name="Name" value="圆元素">
+    <param name="Local" value="第四章 元素测量\4.5 圆元素.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="圆柱度">
+    <param name="Name" value="圆柱度">
+    <param name="Local" value="第七章 公差评定\7.9 圆柱度.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="圆柱元素">
+    <param name="Name" value="圆柱元素">
+    <param name="Local" value="第四章 元素测量\4.6 圆柱元素.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="圆锥元素">
+    <param name="Name" value="圆锥元素">
+    <param name="Local" value="第四章 元素测量\4.7 圆锥元素.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="远程键盘">
+    <param name="Name" value="远程键盘">
+    <param name="Local" value="第二章 测量界面说明\2.2 系统主菜单\2.2.2 设置\2.2.2.4 远程键盘.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="阵列">
+    <param name="Name" value="阵列">
+    <param name="Local" value="第五章 元素构造\5.14 阵列.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="直径">
+    <param name="Name" value="直径">
+    <param name="Local" value="第七章 公差评定\7.11 直径.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="直线度">
+    <param name="Name" value="直线度">
+    <param name="Local" value="第七章 公差评定\7.6 直线度.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="中分">
+    <param name="Name" value="中分">
+    <param name="Local" value="第五章 元素构造\5.3 中分.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="主工具条">
+    <param name="Name" value="主工具条">
+    <param name="Local" value="第二章 测量界面说明\2.3 主工具条.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="锥角">
+    <param name="Name" value="锥角">
+    <param name="Local" value="第七章 公差评定\7.12 锥角.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="自学习模式">
+    <param name="Name" value="自学习模式">
+    <param name="Local" value="第二章 测量界面说明\2.7 系统状态1区\2.7.2 自学习模式.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="最低配置">
+    <param name="Name" value="最低配置">
+    <param name="Local" value="第一章 概述\1.2 软件对计算机的配置需求.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="坐标窗口1">
+    <param name="Name" value="坐标窗口1">
+    <param name="Local" value="第二章 测量界面说明\2.2 系统主菜单\2.2.3 显示\坐标窗口1.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="坐标窗口2">
+    <param name="Name" value="坐标窗口2">
+    <param name="Local" value="第二章 测量界面说明\2.2 系统主菜单\2.2.3 显示\坐标窗口2.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="坐标系">
+    <param name="Name" value="坐标系">
+    <param name="Local" value="第六章 坐标系\index.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="坐标系的创建过程">
+    <param name="Name" value="坐标系的创建过程">
+    <param name="Local" value="第六章 坐标系\6.8 坐标系的创建过程.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="坐标系公差">
+    <param name="Name" value="坐标系公差">
+    <param name="Local" value="第七章 公差评定\7.13 坐标系公差.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="坐标系据库">
+    <param name="Name" value="坐标系据库">
+    <param name="Local" value="第二章 测量界面说明\2.6 数据库区\2.6.4 坐标系数据库.html">
+  </object>
+</ul>
+</html>

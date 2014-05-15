@@ -1,0 +1,108 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<link rel="stylesheet" href="../hh.css" type="text/css">
+<title>定义测头</title><style type="text/css">
+<!--
+body { margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; }
+-->
+</style>
+<meta name="generator" content="Adobe RoboHelp - www.adobe.com">
+</head>
+<body>
+<table width="100%" height="117" border="0" cellpadding="0" cellspacing="0" >
+  <tr>
+    <td height="53" align="right" background="../images/bg.gif"><img src="../images/logo.jpg" width="257" height="53" /></td>
+  </tr>
+  <tr>
+    <td height="64" class="bt" background="../images/bg1.gif"><a href="index.html">测头组装与应用</a></td>
+  </tr>
+</table>
+
+<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="1%" bgcolor="#525655">&nbsp;</td>
+    <td width="98%" align="center" valign="top" bgcolor="#F7FAF3"><table width="100%" height="56" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+          <td bgcolor="#E7E7E7" class="bt1"><a href="index.html">测头组装与应用</a>-定义测头</td>
+      </tr>
+    </table>
+    <br>
+    <table width="90%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+          <td valign="top" class="wen">
+
+<p>图标：<img height="29" src="3.2 定义测头_clip_image003.jpg" width="28"><br>
+  定义测头功能是用来手动定义测头使用角度，点击&ldquo;测头工具区&rdquo;的&ldquo;定义测头&rdquo;工具按钮&nbsp;<img height="29" src="3.2 定义测头_clip_image003_0000.jpg" width="28">，或在测头数据库区点击右键弹出快捷菜单选择&ldquo;测头定义&rdquo;选项（在数据库部分详细介绍）时，会在系统界面中弹出定义测头窗口，如图3-8所示。下面介绍一下窗口的各组成部分。</img></br></img></p>
+<p align="center"><img height="300" src="3.2 定义测头_clip_image009.jpg" width="443"><br>
+  图3-8</br></img></p>
+
+<ul>
+
+<li>测头名称输入框</li>
+
+<p>该输入框用来输入要创建测头的名称。该输入框可由系统自动产生理论测头名称（侧头名称=前缀+阿拉伯数字，在VISUAL中红色测头图表示理论定义测头，绿色表示实际校验过的测头），并按数字从小到大的顺序生成，例如：在生成SN2后，下一个自动生成的名称是SN3而不会检查SN2是否可用。可以用键盘输入，而不能像公差窗口那样从数据库区拖入公差。当输入的名称已存在时将弹出右图窗口，即VISUAL不允许重名。</p>
+<p align="center"><img align="center" height="121" hspace="12" src="3.2 定义测头_clip_image010.jpg" width="231"></p>
+
+<li>测头属性输入与显示区，如图3-9</li>
+
+<p align="center"><img height="271" src="3.2 定义测头_clip_image016.jpg" width="332"><br>图3-9<br></p>
+  
+  该区域包括：A角输入框、B角输入框、测杆长度输入框、测球直径输入框、父测头下拉框。介绍如下： </br></br></img></p>
+
+<h4><a name="_Toc383089728">A</a>、B角输入框&nbsp; </h4>
+<p>用来确定测头的角度。可以键盘输入也可在角度选取与显示区选取。当在角度选取显示区选取角度时，角度以角度增量下拉框中选择的角度来显示可定义测量角度的位置，或者直接输入。角度单位由系统状态区2来设定。</p>
+<ul>
+<li>测杆长度显示框</li>
+
+<p>用来显示测杆的长度，此长度尺寸与测头组装有关，长度单位由系统状态区来设定。</p>
+
+<li>测球直径显示框</li>
+
+<p>&nbsp;  用来显示测球直径，此尺寸与测头组装有关，长度单位由系统状态区来设定。</p>
+
+<li>父测头下拉框</li>
+
+<p>用来定义测头的父测头，点击下拉框的箭头将出现下拉选项，选择（无）选项，测头下拉列表框中将出现所有的已定义的组装测头。如下图所示：</p><img align="center" height="114" hspace="12" src="3.2 定义测头_clip_image017.jpg" width="155"></img>
+<p>&nbsp;</p>
+</ul>
+
+
+<li>角度选取显示区</li>
+
+<p>用来选取测头的角度。角度A（0&deg;～90&deg;或105&deg;），角度B（-180&deg;～180&deg;）只能以15&deg;或7.5&deg;倍增倍减。该区由一组同心圆和一组以圆心为起点的一组向外发散的射线。同心圆代表A角，同心圆由里向外角度逐渐增加15&deg;或7.5&deg;；射线代表B角，Y负向水平射线为零度，逆时针旋转逐渐增加15度，到Y正向水平射线为180&deg;，以水平射线顺时针旋转逐渐减少到负角，到Y正向水平射线为-180&deg;。显示区中显示蓝色圆、射线及相交红色点表示当前所选的角度。通过鼠标在显示区的移动到圆与射线的交点处，系统将显示该交点的角度，并且此时交点变为蓝色，同时显示相应A、B角度。如下图所示：</img></p>
+<p align="left"><img align="center" height="138" hspace="12" src="3.2 定义测头_clip_image019.jpg" width="138"></p>
+
+<li>功能按钮</li>
+
+<ul>
+<li>确定</li>
+
+<p>点击该按钮将生成定义的测头并关闭窗口（如果复选框勾选）。</p>
+
+<li>取消</li>
+
+
+<p>点击该按钮将在不生成测头的情况下关闭公差窗口（如果复选框勾选）。</p>
+</ul>
+</ul>
+
+          </td>
+      </tr>
+    </table>
+    <br>
+    </td>
+    <td width="1%" bgcolor="#525655">&nbsp;</td>
+  </tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="40" align="center" valign="middle" bgcolor="#525655" class="down">&copy;&nbsp;2014 Forward Corporation.  All rights reserved.</td>
+  </tr>
+</table>
+</body>
+</html>
+
+

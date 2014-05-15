@@ -1,0 +1,102 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<link rel="stylesheet" href="../hh.css" type="text/css">
+<title>测头测量参数设置</title><style type="text/css">
+<!--
+body { margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; }
+-->
+</style>
+<meta name="generator" content="Adobe RoboHelp - www.adobe.com">
+</head>
+<body>
+<table width="100%" height="117" border="0" cellpadding="0" cellspacing="0" >
+  <tr>
+    <td height="53" align="right" background="../images/bg.gif"><img src="../images/logo.jpg" width="257" height="53" /></td>
+  </tr>
+  <tr>
+    <td height="64" class="bt" background="../images/bg1.gif"><a href="index.html">测头组装与应用</a></td>
+  </tr>
+</table>
+
+<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="1%" bgcolor="#525655">&nbsp;</td>
+    <td width="98%" align="center" valign="top" bgcolor="#F7FAF3"><table width="100%" height="56" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+          <td bgcolor="#E7E7E7" class="bt1"><a href="index.html">测头组装与应用</a>-测头测量参数设置</td>
+      </tr>
+    </table>
+    <br>
+    <table width="90%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+          <td valign="top" class="wen">
+
+
+<p><a name="OLE_LINK54"></a><a name="OLE_LINK49">图标：<img height="30" src="3.5 测头测量参数设置_clip_image003.jpg" width="28"/></a><br>
+机器运行时的测量参数由此处进行设置，点击按钮 <img height="30" src="3.5 测头测量参数设置_clip_image003_0000.jpg" width="28">，弹出如下参数设置窗口，如图3-12所示，具体参数的含义解释如下：</img></br></p>
+<p align="center">&nbsp;</p>
+<table width="200" border="0">
+  <tr>
+    <td><p align="center"><img height="265" src="3.5 测头测量参数设置_clip_image005.jpg" width="339"><br>图3-12 </p></td>
+    <td><p align="center"><img height="248" src="3.5 测头测量参数设置_clip_image008_001.jpg" width="472"><br>图3-13</p> </td>
+  </tr>
+</table>
+<br>
+<ul>
+  <li>逼近距离</li>
+
+<p>指从测量点的位置沿测量点的法向向法向方向偏移的距离，也既测量点到接近定位点的距离。在接近定位点之前，机器移动以移动速度快速移动，在接近定位点之后以测量速度移动，接近测量点位置，图3-13中红色单向箭头为逼近方向，长度表示逼近距离。</p>
+
+<li>回退距离</li>
+
+<p>指从测量点的位置沿测量点的法向向法向偏移的距离，也既测量点到回退定位点的距离。在到达回退定位点之前，机器移动以回退速度快速移动，在到达回退定位点之后以移动速度快速移动到下一个逼近定位点，或停在当前测量点的回退定位点位置，图3-13中黄色单向箭头为回退方向，长度表示逼近距离。</p>
+
+<li>搜索距离</li>
+
+<p>指从测量点的位置沿测量点的法向向法向负向偏移的距离，在到达测量点以后，如果没有和被测量工件接触，机器会继续以测量速度沿测量点的法向负向移动，直至接触到工件或已到达搜索距离而仍然没有接触到工件，机器停止移动。图3-13中粉色单向箭头为搜索方向，长度表示搜索距离。</p>
+
+<li>探测深度</li>
+
+<p>对于二维元素而言，选取的理论元素位置可能无法直接测量，例如：圆。当在数模上圆孔的口部选择一个圆，而此位置无法进行直接测量，需要在孔里面的位置进行测量，这时如果使用自动模式测量这个圆，则需要指定探测深度。探测深度指从被测元素的理论位置沿其法向负向到实际测量元素位置的距离。图3-13中蓝色双向箭头的长度表示探测深度，黄色圆代表理论元素，紫色圆代表实测元素。</p>
+
+<li>参照元素</li>
+
+<p>用于机器在自动模式运行时的安全运行设置，一般为平面，可以为理论元素，也可以是实际元素。</p>
+
+<li>逃离距离</li>
+
+<p>用于机器在自动模式运行时的安全运行设置，该距离指以参照元素为基准，机器在其法向运行的最远距离。可以为理论元素，也可以是实际元素。图3-13中绿色双向箭头的长度表示逃离距离。</p>
+
+<li>扫描高度</li>
+
+<p>指触发扫描时测头距离接触面的回退距离。</p>
+
+<li>扫描深度</li>
+
+<p>指触发扫描时测头距离接触面的搜索距离。</p>
+
+<li>扫描步距</li>
+
+<p>指触发扫描时两测量点之间的距离。</p>
+</ul>
+
+
+          </td>
+      </tr>
+    </table>
+    <br>
+    </td>
+    <td width="1%" bgcolor="#525655">&nbsp;</td>
+  </tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="40" align="center" valign="middle" bgcolor="#525655" class="down">&copy;&nbsp;2014 Forward Corporation.  All rights reserved.</td>
+  </tr>
+</table>
+</body>
+</html>
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="2" minorversion="0">
+	<folders>
+		<folder>
+			<name>images</name>
+		</folder>
+		<folder>
+			<name>前言</name>
+		</folder>
+		<folder>
+			<name>第一章 概述</name>
+		</folder>
+		<folder>
+			<name>第七章 公差评定</name>
+		</folder>
+		<folder>
+			<name>第三章 测头组装与应用</name>
+		</folder>
+		<folder>
+			<name>第九章 DMIS自学习功能应用</name>
+		</folder>
+		<folder>
+			<name>第二章 测量界面说明</name>
+		</folder>
+		<folder>
+			<name>第五章 元素构造</name>
+		</folder>
+		<folder>
+			<name>第八章 报表输出</name>
+		</folder>
+		<folder>
+			<name>第六章 坐标系</name>
+		</folder>
+		<folder>
+			<name>第四章 元素测量</name>
+		</folder>
+		<folder>
+			<name>!Language!</name>
+		</folder>
+	</folders>
+	<topics>
+		<topic>
+			<name>index.html</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+	</topics>
+</rhpml>

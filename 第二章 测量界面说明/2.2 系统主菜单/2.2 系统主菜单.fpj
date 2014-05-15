@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="2" minorversion="0">
+	<folders>
+		<folder>
+			<name>2.2.2 设置</name>
+		</folder>
+		<folder>
+			<name>2.2.3 显示</name>
+		</folder>
+	</folders>
+	<topics>
+		<topic>
+			<name>2.2.1 文件.html</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>2.2.4 帮助.html</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>index.html</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+	</topics>
+</rhpml>

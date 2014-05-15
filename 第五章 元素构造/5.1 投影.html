@@ -1,0 +1,173 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<link rel="stylesheet" href="../hh.css" type="text/css">
+<title>投影</title><style type="text/css">
+<!--
+body { margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; }
+-->
+</style>
+<meta name="generator" content="Adobe RoboHelp - www.adobe.com">
+</head>
+<body>
+<table width="100%" height="117" border="0" cellpadding="0" cellspacing="0" >
+  <tr>
+    <td height="53" align="right" background="../images/bg.gif"><img src="../images/logo.jpg" width="257" height="53" /></td>
+  </tr>
+  <tr>
+    <td height="64" class="bt" background="../images/bg1.gif"><a href="index.html">元素构造</a></td> 
+  </tr>
+</table>
+
+<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="1%" bgcolor="#525655">&nbsp;</td>
+    <td width="98%" align="center" valign="top" bgcolor="#F7FAF3"><table width="100%" height="56" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+          <td bgcolor="#E7E7E7" class="bt1"><a href="index.html">元素构造</a>-投影</td>
+      </tr>
+    </table>
+    <br>
+    <table width="90%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+          <td valign="top" class="wen">
+  
+
+
+<p>图标：<img height="28" src="5.1 投影_clip_image002.jpg" width="28"><p>
+  投影功能是用来把指定的元素投影到参考元素所确定的线或面上，从而得到投影元素。点击工具投影&nbsp;<img height="33" src="5.1 投影_clip_image003.jpg" width="33">将弹出投影窗口，如图5-3所示，本节就部分窗口内容做介绍，关于窗口的其它部分请参看本章构造窗口的相关内容。</img></br></img></p>
+<p align="center"><img height="304" src="5.1 投影_clip_image005.jpg" width="311"><br>
+  图5-3</br></img></p>
+<ul>
+<li>元素输入栏</li>
+
+<p>该输入栏用来确定被投影的元素。通过在元素数据库的拖动操作、键盘操作来输入元素名称。</p>
+
+<li>投向输入栏</li>
+
+<p>该输入栏用来确定参考元素，即被投影元素投影在哪个元素上。</p>
+<p>在构造中根据各元素的属性把元素分为点集元素、线集元素、面集元素。通过点集元素可以生成点元素；通过线集元素可以生成线元素；通过面集元素可以生成面元素。</p>
+
+<li>点集元素：包括点元素、圆元素、球元素。</li>
+<li>线集元素：包括 直线元素、圆柱元素、圆锥元素。</li>
+<li>面集元素：包括 面元素、圆元素、椭圆元素、圆弧元素、键槽元素。</li>
+
+<p>当参考元素属于点集元素时，是无法做投影操作的。关于各元素投影生成的元素如下表描述，注意同元素之间无法构造生成投影元素。</p>
+<table  class="wen" border="1" cellpadding="0" cellspacing="0" width="536">
+<tr>
+<td width="84"><p align="center">被投影元素</p></td>
+<td width="452"><p align="center">参考元素为线集元素</p></td>
+</tr>
+<tr>
+<td width="84"><p align="center">点</p></td>
+<td valign="top" width="452"><p>点： 点元素到生成点的距离等于点到线的距离。生成点的方向为点元素到线垂线的方向。如果点在参考元素上，则无法生成投影点。</p></td>
+</tr>
+<tr>
+<td width="84"><p align="center">线</p></td>
+<td valign="top" width="452"><p>无构造元素生成。</p></td>
+</tr>
+<tr>
+<td width="84"><p align="center">面</p></td>
+<td valign="top" width="452"><p>无构造元素生成。</p></td>
+</tr>
+<tr>
+<td width="84"><p align="center">圆</p></td>
+<td valign="top" width="452"><p>点： 圆元素质点到线集元素的投影点。生成点的方向为圆元素质点到线垂线的方向。如果点在参考元素上，则无法生成投影点。</p></td>
+</tr>
+<tr>
+<td width="84"><p align="center">圆柱</p></td>
+<td valign="top" width="452"><p>无构造元素生成。</p></td>
+</tr>
+<tr>
+<td width="84"><p align="center">圆锥</p></td>
+<td valign="top" width="452"><p>点： 圆锥元素质点到线集元素的投影点。生成点的方向为圆锥元素质点到线的方向。</p></td>
+</tr>
+<tr>
+<td width="84"><p align="center">球</p></td>
+<td valign="top" width="452"><p>点：球元素质点到线集元素的投影点。生成点的方向为球元素质点到线的方向。</p></td>
+</tr>
+<tr>
+<td width="84"><p align="center">椭圆</p></td>
+<td valign="top" width="452"><p>点：椭圆元素质点到线集元素的投影点。生成点的方向为椭圆元素质点到线的方向。</p></td>
+</tr>
+<tr>
+<td width="84"><p align="center">圆弧</p></td>
+<td valign="top" width="452"><p>点：圆弧元素质点到线集元素的投影点。生成点的方向为圆弧元素质点到线的方向。</p></td>
+</tr>
+<tr>
+<td width="84"><p align="center">键槽</p></td>
+<td valign="top" width="452"><p>点：键槽元素质点到线集元素的投影点。生成点的方向为键槽元素质点到线的方向。</p></td>
+</tr>
+<tr>
+<td><p align="center">被投影元素</p></td>
+<td width="452"><p align="center">参考元素为面集元素</p></td>
+</tr>
+<tr>
+<td><p align="center">点</p></td>
+<td valign="top" width="452"><p>点：点元素到生成点的距离等于点元素到面元素的距离。如果点在参考元素上，则无法生成投影点。</p></td>
+</tr>
+<tr>
+<td><p align="center">线</p></td>
+<td valign="top" width="452"><p>点：当线元素垂直于面元素时，生成的点为线元素与面元素的公共点，方向为面元素的方向。<br>
+      线：生成直线与线元素的角度等于线元素与面集元素所在面的角度。如果线在参考元素上或垂直与面集元素，则无法生成投影直线。 </br></p></td>
+</tr>
+<tr>
+<td><p align="center">面</p></td>
+<td valign="top" width="452"><p>无构造元素生成。</p></td>
+</tr>
+<tr>
+<td><p align="center">圆</p></td>
+<td valign="top" width="452"><p>点：圆元素的质点在面集元素所在面的投影点，    生成点的方向为圆元素质点到面集元素的垂线方向。<br>
+      圆：当圆的方向向量平行于面集元素的方向向量时生成构造圆。 </br></p></td>
+</tr>
+<tr>
+<td><p align="center">圆柱</p></td>
+<td valign="top" width="452"><p>点：当圆柱元素垂直于面元素时，生成的点为圆柱元素与面元素的公共点，方向为面元素的方向。<br>
+      线：圆柱元素的轴线在面集元素上的投影直线，如果线在面集元素上或垂直与参考元素，则无法生成投影直线。 </br></p></td>
+</tr>
+<tr>
+<td><p align="center">圆锥</p></td>
+<td valign="top" width="452"><p>点：当圆锥元素垂直于面元素时，生成的点为圆锥元素与面元素的公共点，方向为面元素的方向。<br>
+      线：圆锥元素在面集元素上的投影直线，如果线在面集元素上或垂直与面集元素，则无法生成投影直线。 </br></p></td>
+</tr>
+<tr>
+<td><p align="center">球</p></td>
+<td valign="top" width="452"><p>点：球元素的质点在面集元素上的投影点，生成点的方向为球元素质点到面集元素的垂线方向。</p></td>
+</tr>
+<tr>
+<td><p align="center">椭圆</p></td>
+<td valign="top" width="452"><p>点：椭圆元素的质点在面集元素上的投影点，生成点的方向为投影点到椭圆元素的质点的方向。</p></td>
+</tr>
+<tr>
+<td><p align="center">圆弧</p></td>
+<td valign="top" width="452"><p>点：圆弧元素的质点在面集元素上的投影点，生成点的方向为投影点到圆弧元素的质点的方向。<br>
+      圆：生成的圆在面集元素上，半径为圆弧元素的半径，质点为圆弧元素在面集元素上的投影点，方向为投影点到圆弧元素的质点的方向，起始角的方向为被投影圆弧在面集元素上的投影矢量。<br>
+      圆弧：生成的圆圆弧在面集元素上，半径为圆弧元素的半径，质点为圆弧元素在面集元素上的投影点，方向为投影点到圆弧元素的质点的方向。 </br></br></p></td>
+</tr>
+<tr>
+<td><p align="center">键槽</p></td>
+<td valign="top" width="452"><p>点：键槽元素的质点在面集元素上的投影点，生成点的方向为投影点到键槽元素的质点的方向。</p></td>
+</tr>
+</table>
+
+</ul>
+
+          </td>
+      </tr>
+    </table>
+    <br>
+    </td>
+    <td width="1%" bgcolor="#525655">&nbsp;</td>
+  </tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="40" align="center" valign="middle" bgcolor="#525655" class="down">&copy;&nbsp;2014 Forward Corporation.  All rights reserved.</td>
+  </tr>
+</table>
+</body>
+</html>
+
+

@@ -1,0 +1,70 @@
+﻿[Target:WebHelp Pro]
+ResultFileName=!SSL!\WebHelp_Pro\VISUAL_DMIS使用帮助手册.htm
+SSLayoutType=32
+ServerProjectName=VISUAL DMIS使用帮助手册
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:WebHelp]
+ResultFileName=!SSL!\WebHelp\VISUAL_DMIS使用帮助手册.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Microsoft HTML Help]
+ResultFileName=!SSL!\Microsoft_HTML_Help\VISUAL_DMIS使用帮助手册.chm
+SSLayoutType=1
+CreateProjectTime=11:24, May 15, 2014
+CreateProjectUser=Administrator
+SupportMas_MPJ=1
+ActionID For Generation=1005
+Remove Folder with prompt=1
+ViewFileName=!SSL!\Microsoft_HTML_Help\VISUAL_DMIS使用帮助手册.chm
+ResultStatus=0
+BuildTimeHi=30371821
+BuildTimeLow=1202594182
+Enable Result Dialog=1
+[Target:FlashHelp]
+ResultFileName=!SSL!\FlashHelp\VISUAL_DMIS使用帮助手册.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Printed Documentation]
+ResultFileName=!SSL!\Printed_Documentation\VISUAL_DMIS使用帮助手册.doc
+SSLayoutType=7
+[Target:XML Output]
+ResultFileName=!SSL!\XML_Output\VISUAL_DMIS使用帮助手册.xml
+SSLayoutType=8192
+[Target:FlashHelp Pro]
+ResultFileName=!SSL!\FlashHelp_Pro\VISUAL_DMIS使用帮助手册.htm
+SSLayoutType=2
+ServerProjectName=VISUAL DMIS使用帮助手册
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[PreSingleSource]
+Html Help Project=C:\Users\Administrator\Documents\WinCHM Projects\Project5_output\VISUAL DMIS使用帮助手册.hhp
+Table Of Content=C:\Users\Administrator\Documents\WinCHM Projects\Project5_output\VISUAL DMIS使用帮助手册.hhc
+Index=C:\Users\Administrator\Documents\WinCHM Projects\Project5_output\VISUAL DMIS使用帮助手册.hhk
+Topic Index=C:\Users\Administrator\Documents\WinCHM Projects\Project5_output\RHTopicKeyword$.hhk
+See Also Index=C:\Users\Administrator\Documents\WinCHM Projects\Project5_output\VISUAL DMIS使用帮助手册.hha
+Browse Sequence=C:\Users\Administrator\Documents\WinCHM Projects\Project5_output\VISUAL DMIS使用帮助手册.brs
+Topic Properties=C:\Users\Administrator\Documents\WinCHM Projects\Project5_output\VISUAL DMIS使用帮助手册.trs
+Active Folders=C:\Users\Administrator\Documents\WinCHM Projects\Project5_output\VISUAL DMIS使用帮助手册.trf
+Baggage Files=C:\Users\Administrator\Documents\WinCHM Projects\Project5_output\VISUAL DMIS使用帮助手册.trb
+Skin List=C:\Users\Administrator\Documents\WinCHM Projects\Project5_output\VISUAL DMIS使用帮助手册.trk
+Active Layout Names=C:\Users\Administrator\Documents\WinCHM Projects\Project5_output\VISUAL DMIS使用帮助手册.trl
+Project Variables=C:\Users\Administrator\Documents\WinCHM Projects\Project5_output\VISUAL DMIS使用帮助手册.trv
+Template Files=C:\Users\Administrator\Documents\WinCHM Projects\Project5_output\VISUAL DMIS使用帮助手册.trt
+Project TOC List=C:\Users\Administrator\Documents\WinCHM Projects\Project5_output\VISUAL DMIS使用帮助手册.trtocl
+Project Index List=C:\Users\Administrator\Documents\WinCHM Projects\Project5_output\VISUAL DMIS使用帮助手册.tridxl
+Project Glossary List=C:\Users\Administrator\Documents\WinCHM Projects\Project5_output\VISUAL DMIS使用帮助手册.trglol
+Default Topic=C:\Users\Administrator\Documents\WinCHM Projects\Project5_output\前言\0-0.html
+Build Tags0=32257;
+Build Tags=
+Build Expression=
+Language ID=2052
+Language Name=zh_CN
+Language=C:\Users\Administrator\Documents\WinCHM Projects\Project5_output\RoboHHRE.lng
+Stop List=C:\Users\Administrator\Documents\WinCHM Projects\Project5_output\VISUAL DMIS使用帮助手册.stp

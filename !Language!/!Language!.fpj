@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="2" minorversion="0">
+	<folders>
+		<folder>
+			<name>en_US</name>
+		</folder>
+		<folder>
+			<name>zh_CN</name>
+		</folder>
+	</folders>
+	<topics/>
+</rhpml>

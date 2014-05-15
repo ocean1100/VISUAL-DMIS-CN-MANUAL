@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="2" minorversion="0">
+	<windows>
+		<window>
+			<name>main</name>
+			<caption>VISUAL DMIS软件使用手册</caption>
+			<tocfile></tocfile>
+			<indexfile></indexfile>
+			<defaultfile></defaultfile>
+			<homefile>前言/0-0.html</homefile>
+			<jump1filename>前言/0-0.html</jump1filename>
+			<jump1text></jump1text>
+			<jump2filename></jump2filename>
+			<jump2text></jump2text>
+			<flags>397600</flags>
+			<navpanewidth>270</navpanewidth>
+			<buttons>14462</buttons>
+			<windowplacement>
+				<left>142</left>
+				<top>99</top>
+				<right>842</right>
+				<bottom>599</bottom>
+			</windowplacement>
+			<windowstyle>720896</windowstyle>
+			<windowstyleex>0</windowstyleex>
+			<expandedstate>0</expandedstate>
+			<defaulttab>0</defaulttab>
+			<tabposition>0</tabposition>
+			<showwindow>0</showwindow>
+		</window>
+	</windows>
+</rhpml>

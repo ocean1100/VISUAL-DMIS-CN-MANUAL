@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="2" minorversion="0">
+	<fontsets>
+		<fontset>
+			<name>Marlett</name>
+			<fontlist>Marlett</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arial</name>
+			<fontlist>Arial</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arabic Transparent</name>
+			<fontlist>Arabic Transparent</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arial Baltic</name>
+			<fontlist>Arial Baltic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arial CE</name>
+			<fontlist>Arial CE</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arial CYR</name>
+			<fontlist>Arial CYR</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arial Greek</name>
+			<fontlist>Arial Greek</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arial TUR</name>
+			<fontlist>Arial TUR</fontlist>
+		</fontset>
+		<fontset>
+			<name>Batang</name>
+			<fontlist>Batang</fontlist>
+		</fontset>
+		<fontset>
+			<name>@Batang</name>
+			<fontlist>@Batang</fontlist>
+		</fontset>
+		<fontset>
+			<name>BatangChe</name>
+			<fontlist>BatangChe</fontlist>
+		</fontset>
+		<fontset>
+			<name>@BatangChe</name>
+			<fontlist>@BatangChe</fontlist>
+		</fontset>
+		<fontset>
+			<name>Gungsuh</name>
+			<fontlist>Gungsuh</fontlist>
+		</fontset>
+		<fontset>
+			<name>@Gungsuh</name>
+			<fontlist>@Gungsuh</fontlist>
+		</fontset>
+		<fontset>
+			<name>GungsuhChe</name>
+			<fontlist>GungsuhChe</fontlist>
+		</fontset>
+		<fontset>
+			<name>@GungsuhChe</name>
+			<fontlist>@GungsuhChe</fontlist>
+		</fontset>
+		<fontset>
+			<name>Courier New</name>
+			<fontlist>Courier New</fontlist>
+		</fontset>
+		<fontset>
+			<name>Courier New Baltic</name>
+			<fontlist>Courier New Baltic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Courier New CE</name>
+			<fontlist>Courier New CE</fontlist>
+		</fontset>
+		<fontset>
+			<name>Courier New CYR</name>
+			<fontlist>Courier New CYR</fontlist>
+		</fontset>
+		<fontset>
+			<name>Courier New Greek</name>
+			<fontlist>Courier New Greek</fontlist>
+		</fontset>
+		<fontset>
+			<name>Courier New TUR</name>
+			<fontlist>Courier New TUR</fontlist>
+		</fontset>
+		<fontset>
+			<name>DaunPenh</name>
+			<fontlist>DaunPenh</fontlist>
+		</fontset>
+		<fontset>
+			<name>DokChampa</name>
+			<fontlist>DokChampa</fontlist>
+		</fontset>
+		<fontset>
+			<name>Estrangelo Edessa</name>
+			<fontlist>Estrangelo Edessa</fontlist>
+		</fontset>
+		<fontset>
+			<name>Euphemia</name>
+			<fontlist>Euphemia</fontlist>
+		</fontset>
+		<fontset>
+			<name>Gautami</name>
+			<fontlist>Gautami</fontlist>
+		</fontset>
+		<fontset>
+			<name>Vani</name>
+			<fontlist>Vani</fontlist>
+		</fontset>
+		<fontset>
+			<name>Gulim</name>
+			<fontlist>Gulim</fontlist>
+		</fontset>
+		<fontset>
+			<name>@Gulim</name>
+			<fontlist>@Gulim</fontlist>
+		</fontset>
+		<fontset>
+			<name>GulimChe</name>
+			<fontlist>GulimChe</fontlist>
+		</fontset>
+		<fontset>
+			<name>@GulimChe</name>
+			<fontlist>@GulimChe</fontlist>
+		</fontset>
+		<fontset>
+			<name>Dotum</name>
+			<fontlist>Dotum</fontlist>
+		</fontset>
+		<fontset>
+			<name>@Dotum</name>
+			<fontlist>@Dotum</fontlist>
+		</fontset>
+		<fontset>
+			<name>DotumChe</name>
+			<fontlist>DotumChe</fontlist>
+		</fontset>
+		<fontset>
+			<name>@DotumChe</name>
+			<fontlist>@DotumChe</fontlist>
+		</fontset>
+		<fontset>
+			<name>Impact</name>
+			<fontlist>Impact</fontlist>
+		</fontset>
+		<fontset>
+			<name>Iskoola Pota</name>
+			<fontlist>Iskoola Pota</fontlist>
+		</fontset>
+		<fontset>
+			<name>Kalinga</name>
+			<fontlist>Kalinga</fontlist>
+		</fontset>
+		<fontset>
+			<name>Kartika</name>
+			<fontlist>Kartika</fontlist>
+		</fontset>
+		<fontset>
+			<name>Khmer UI</name>
+			<fontlist>Khmer UI</fontlist>
+		</fontset>
+		<fontset>
+			<name>Lao UI</name>
+			<fontlist>Lao UI</fontlist>
+		</fontset>
+		<fontset>
+			<name>Latha</name>
+			<fontlist>Latha</fontlist>
+		</fontset>
+		<fontset>
+			<name>Lucida Console</name>
+			<fontlist>Lucida Console</fontlist>
+		</fontset>
+		<fontset>
+			<name>Malgun Gothic</name>
+			<fontlist>Malgun Gothic</fontlist>
+		</fontset>
+		<fontset>
+			<name>@Malgun Gothic</name>
+			<fontlist>@Malgun Gothic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Mangal</name>
+			<fontlist>Mangal</fontlist>
+		</fontset>
+		<fontset>
+			<name>Meiryo</name>
+			<fontlist>Meiryo</fontlist>
+		</fontset>
+		<fontset>
+			<name>@Meiryo</name>
+			<fontlist>@Meiryo</fontlist>
+		</fontset>
+		<fontset>
+			<name>Meiryo UI</name>
+			<fontlist>Meiryo UI</fontlist>
+		</fontset>
+		<fontset>
+			<name>@Meiryo UI</name>
+			<fontlist>@Meiryo UI</fontlist>
+		</fontset>
+		<fontset>
+			<name>Microsoft Himalaya</name>
+			<fontlist>Microsoft Himalaya</fontlist>
+		</fontset>
+		<fontset>
+			<name>Microsoft JhengHei</name>
+			<fontlist>Microsoft JhengHei</fontlist>
+		</fontset>
+		<fontset>
+			<name>@Microsoft JhengHei</name>
+			<fontlist>@Microsoft JhengHei</fontlist>
+		</fontset>
+		<fontset>
+			<name>微软雅黑</name>
+			<fontlist>微软雅黑</fontlist>
+		</fontset>
+		<fontset>
+			<name>@微软雅黑</name>
+			<fontlist>@微软雅黑</fontlist>
+		</fontset>
+		<fontset>
+			<name>MingLiU</name>
+			<fontlist>MingLiU</fontlist>
+		</fontset>
+		<fontset>
+			<name>@MingLiU</name>
+			<fontlist>@MingLiU</fontlist>
+		</fontset>
+		<fontset>
+			<name>PMingLiU</name>
+			<fontlist>PMingLiU</fontlist>
+		</fontset>
+		<fontset>
+			<name>@PMingLiU</name>
+			<fontlist>@PMingLiU</fontlist>
+		</fontset>
+		<fontset>
+			<name>MingLiU_HKSCS</name>
+			<fontlist>MingLiU_HKSCS</fontlist>
+		</fontset>
+		<fontset>
+			<name>@MingLiU_HKSCS</name>
+			<fontlist>@MingLiU_HKSCS</fontlist>
+		</fontset>
+		<fontset>
+			<name>MingLiU-ExtB</name>
+			<fontlist>MingLiU-ExtB</fontlist>
+		</fontset>
+		<fontset>
+			<name>@MingLiU-ExtB</name>
+			<fontlist>@MingLiU-ExtB</fontlist>
+		</fontset>
+		<fontset>
+			<name>PMingLiU-ExtB</name>
+			<fontlist>PMingLiU-ExtB</fontlist>
+		</fontset>
+		<fontset>
+			<name>@PMingLiU-ExtB</name>
+			<fontlist>@PMingLiU-ExtB</fontlist>
+		</fontset>
+		<fontset>
+			<name>MingLiU_HKSCS-ExtB</name>
+			<fontlist>MingLiU_HKSCS-ExtB</fontlist>
+		</fontset>
+		<fontset>
+			<name>@MingLiU_HKSCS-ExtB</name>
+			<fontlist>@MingLiU_HKSCS-ExtB</fontlist>
+		</fontset>
+		<fontset>
+			<name>Mongolian Baiti</name>
+			<fontlist>Mongolian Baiti</fontlist>
+		</fontset>
+		<fontset>
+			<name>MS Gothic</name>
+			<fontlist>MS Gothic</fontlist>
+		</fontset>
+		<fontset>
+			<name>@MS Gothic</name>
+			<fontlist>@MS Gothic</fontlist>
+		</fontset>
+		<fontset>
+			<name>MS PGothic</name>
+			<fontlist>MS PGothic</fontlist>
+		</fontset>
+		<fontset>
+			<name>@MS PGothic</name>
+			<fontlist>@MS PGothic</fontlist>
+		</fontset>
+		<fontset>
+			<name>MS UI Gothic</name>
+			<fontlist>MS UI Gothic</fontlist>
+		</fontset>
+		<fontset>
+			<name>@MS UI Gothic</name>
+			<fontlist>@MS UI Gothic</fontlist>
+		</fontset>
+		<fontset>
+			<name>MS Mincho</name>
+			<fontlist>MS Mincho</fontlist>
+		</fontset>
+		<fontset>
+			<name>@MS Mincho</name>
+			<fontlist>@MS Mincho</fontlist>
+		</fontset>
+		<fontset>
+			<name>MS PMincho</name>
+			<fontlist>MS PMincho</fontlist>
+		</fontset>
+		<fontset>
+			<name>@MS PMincho</name>
+			<fontlist>@MS PMincho</fontlist>
+		</fontset>
+		<fontset>
+			<name>MV Boli</name>
+			<fontlist>MV Boli</fontlist>
+		</fontset>
+		<fontset>
+			<name>Microsoft New Tai Lue</name>
+			<fontlist>Microsoft New Tai Lue</fontlist>
+		</fontset>
+		<fontset>
+			<name>Nyala</name>
+			<fontlist>Nyala</fontlist>
+		</fontset>
+		<fontset>
+			<name>Microsoft PhagsPa</name>
+			<fontlist>Microsoft PhagsPa</fontlist>
+		</fontset>
+		<fontset>
+			<name>Plantagenet Cherokee</name>
+			<fontlist>Plantagenet Cherokee</fontlist>
+		</fontset>
+		<fontset>
+			<name>Raavi</name>
+			<fontlist>Raavi</fontlist>
+		</fontset>
+		<fontset>
+			<name>Segoe Script</name>
+			<fontlist>Segoe Script</fontlist>
+		</fontset>
+		<fontset>
+			<name>Segoe UI</name>
+			<fontlist>Segoe UI</fontlist>
+		</fontset>
+		<fontset>
+			<name>Segoe UI Semibold</name>
+			<fontlist>Segoe UI Semibold</fontlist>
+		</fontset>
+		<fontset>
+			<name>Segoe UI Light</name>
+			<fontlist>Segoe UI Light</fontlist>
+		</fontset>
+		<fontset>
+			<name>Segoe UI Symbol</name>
+			<fontlist>Segoe UI Symbol</fontlist>
+		</fontset>
+		<fontset>
+			<name>Shruti</name>
+			<fontlist>Shruti</fontlist>
+		</fontset>
+		<fontset>
+			<name>宋体</name>
+			<fontlist>宋体</fontlist>
+		</fontset>
+		<fontset>
+			<name>@宋体</name>
+			<fontlist>@宋体</fontlist>
+		</fontset>
+		<fontset>
+			<name>新宋体</name>
+			<fontlist>新宋体</fontlist>
+		</fontset>
+		<fontset>
+			<name>@新宋体</name>
+			<fontlist>@新宋体</fontlist>
+		</fontset>
+		<fontset>
+			<name>SimSun-ExtB</name>
+			<fontlist>SimSun-ExtB</fontlist>
+		</fontset>
+		<fontset>
+			<name>@SimSun-ExtB</name>
+			<fontlist>@SimSun-ExtB</fontlist>
+		</fontset>
+		<fontset>
+			<name>Sylfaen</name>
+			<fontlist>Sylfaen</fontlist>
+		</fontset>
+		<fontset>
+			<name>Microsoft Tai Le</name>
+			<fontlist>Microsoft Tai Le</fontlist>
+		</fontset>
+		<fontset>
+			<name>Times New Roman</name>
+			<fontlist>Times New Roman</fontlist>
+		</fontset>
+		<fontset>
+			<name>Times New Roman Baltic</name>
+			<fontlist>Times New Roman Baltic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Times New Roman CE</name>
+			<fontlist>Times New Roman CE</fontlist>
+		</fontset>
+		<fontset>
+			<name>Times New Roman CYR</name>
+			<fontlist>Times New Roman CYR</fontlist>
+		</fontset>
+		<fontset>
+			<name>Times New Roman Greek</name>
+			<fontlist>Times New Roman Greek</fontlist>
+		</fontset>
+		<fontset>
+			<name>Times New Roman TUR</name>
+			<fontlist>Times New Roman TUR</fontlist>
+		</fontset>
+		<fontset>
+			<name>Tunga</name>
+			<fontlist>Tunga</fontlist>
+		</fontset>
+		<fontset>
+			<name>Vrinda</name>
+			<fontlist>Vrinda</fontlist>
+		</fontset>
+		<fontset>
+			<name>Shonar Bangla</name>
+			<fontlist>Shonar Bangla</fontlist>
+		</fontset>
+		<fontset>
+			<name>Microsoft Yi Baiti</name>
+			<fontlist>Microsoft Yi Baiti</fontlist>
+		</fontset>
+		<fontset>
+			<name>Tahoma</name>
+			<fontlist>Tahoma</fontlist>
+		</fontset>
+		<fontset>
+			<name>Microsoft Sans Serif</name>
+			<fontlist>Microsoft Sans Serif</fontlist>
+		</fontset>
+		<fontset>
+			<name>Angsana New</name>
+			<fontlist>Angsana New</fontlist>
+		</fontset>
+		<fontset>
+			<name>Aparajita</name>
+			<fontlist>Aparajita</fontlist>
+		</fontset>
+		<fontset>
+			<name>Cordia New</name>
+			<fontlist>Cordia New</fontlist>
+		</fontset>
+		<fontset>
+			<name>Ebrima</name>
+			<fontlist>Ebrima</fontlist>
+		</fontset>
+		<fontset>
+			<name>Gisha</name>
+			<fontlist>Gisha</fontlist>
+		</fontset>
+		<fontset>
+			<name>Kokila</name>
+			<fontlist>Kokila</fontlist>
+		</fontset>
+		<fontset>
+			<name>Leelawadee</name>
+			<fontlist>Leelawadee</fontlist>
+		</fontset>
+		<fontset>
+			<name>Microsoft Uighur</name>
+			<fontlist>Microsoft Uighur</fontlist>
+		</fontset>
+		<fontset>
+			<name>MoolBoran</name>
+			<fontlist>MoolBoran</fontlist>
+		</fontset>
+		<fontset>
+			<name>Symbol</name>
+			<fontlist>Symbol</fontlist>
+		</fontset>
+		<fontset>
+			<name>Utsaah</name>
+			<fontlist>Utsaah</fontlist>
+		</fontset>
+		<fontset>
+			<name>Vijaya</name>
+			<fontlist>Vijaya</fontlist>
+		</fontset>
+		<fontset>
+			<name>Wingdings</name>
+			<fontlist>Wingdings</fontlist>
+		</fontset>
+		<fontset>
+			<name>Andalus</name>
+			<fontlist>Andalus</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arabic Typesetting</name>
+			<fontlist>Arabic Typesetting</fontlist>
+		</fontset>
+		<fontset>
+			<name>Simplified Arabic</name>
+			<fontlist>Simplified Arabic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Simplified Arabic Fixed</name>
+			<fontlist>Simplified Arabic Fixed</fontlist>
+		</fontset>
+		<fontset>
+			<name>Sakkal Majalla</name>
+			<fontlist>Sakkal Majalla</fontlist>
+		</fontset>
+		<fontset>
+			<name>Traditional Arabic</name>
+			<fontlist>Traditional Arabic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Aharoni</name>
+			<fontlist>Aharoni</fontlist>
+		</fontset>
+		<fontset>
+			<name>David</name>
+			<fontlist>David</fontlist>
+		</fontset>
+		<fontset>
+			<name>FrankRuehl</name>
+			<fontlist>FrankRuehl</fontlist>
+		</fontset>
+		<fontset>
+			<name>Levenim MT</name>
+			<fontlist>Levenim MT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Miriam</name>
+			<fontlist>Miriam</fontlist>
+		</fontset>
+		<fontset>
+			<name>Miriam Fixed</name>
+			<fontlist>Miriam Fixed</fontlist>
+		</fontset>
+		<fontset>
+			<name>Narkisim</name>
+			<fontlist>Narkisim</fontlist>
+		</fontset>
+		<fontset>
+			<name>Rod</name>
+			<fontlist>Rod</fontlist>
+		</fontset>
+		<fontset>
+			<name>仿宋</name>
+			<fontlist>仿宋</fontlist>
+		</fontset>
+		<fontset>
+			<name>@仿宋</name>
+			<fontlist>@仿宋</fontlist>
+		</fontset>
+		<fontset>
+			<name>黑体</name>
+			<fontlist>黑体</fontlist>
+		</fontset>
+		<fontset>
+			<name>@黑体</name>
+			<fontlist>@黑体</fontlist>
+		</fontset>
+		<fontset>
+			<name>楷体</name>
+			<fontlist>楷体</fontlist>
+		</fontset>
+		<fontset>
+			<name>@楷体</name>
+			<fontlist>@楷体</fontlist>
+		</fontset>
+		<fontset>
+			<name>AngsanaUPC</name>
+			<fontlist>AngsanaUPC</fontlist>
+		</fontset>
+		<fontset>
+			<name>Browallia New</name>
+			<fontlist>Browallia New</fontlist>
+		</fontset>
+		<fontset>
+			<name>BrowalliaUPC</name>
+			<fontlist>BrowalliaUPC</fontlist>
+		</fontset>
+		<fontset>
+			<name>CordiaUPC</name>
+			<fontlist>CordiaUPC</fontlist>
+		</fontset>
+		<fontset>
+			<name>DilleniaUPC</name>
+			<fontlist>DilleniaUPC</fontlist>
+		</fontset>
+		<fontset>
+			<name>EucrosiaUPC</name>
+			<fontlist>EucrosiaUPC</fontlist>
+		</fontset>
+		<fontset>
+			<name>FreesiaUPC</name>
+			<fontlist>FreesiaUPC</fontlist>
+		</fontset>
+		<fontset>
+			<name>IrisUPC</name>
+			<fontlist>IrisUPC</fontlist>
+		</fontset>
+		<fontset>
+			<name>JasmineUPC</name>
+			<fontlist>JasmineUPC</fontlist>
+		</fontset>
+		<fontset>
+			<name>KodchiangUPC</name>
+			<fontlist>KodchiangUPC</fontlist>
+		</fontset>
+		<fontset>
+			<name>LilyUPC</name>
+			<fontlist>LilyUPC</fontlist>
+		</fontset>
+		<fontset>
+			<name>DFKai-SB</name>
+			<fontlist>DFKai-SB</fontlist>
+		</fontset>
+		<fontset>
+			<name>@DFKai-SB</name>
+			<fontlist>@DFKai-SB</fontlist>
+		</fontset>
+		<fontset>
+			<name>Lucida Sans Unicode</name>
+			<fontlist>Lucida Sans Unicode</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arial Black</name>
+			<fontlist>Arial Black</fontlist>
+		</fontset>
+		<fontset>
+			<name>Calibri</name>
+			<fontlist>Calibri</fontlist>
+		</fontset>
+		<fontset>
+			<name>Cambria</name>
+			<fontlist>Cambria</fontlist>
+		</fontset>
+		<fontset>
+			<name>Cambria Math</name>
+			<fontlist>Cambria Math</fontlist>
+		</fontset>
+		<fontset>
+			<name>Candara</name>
+			<fontlist>Candara</fontlist>
+		</fontset>
+		<fontset>
+			<name>Comic Sans MS</name>
+			<fontlist>Comic Sans MS</fontlist>
+		</fontset>
+		<fontset>
+			<name>Consolas</name>
+			<fontlist>Consolas</fontlist>
+		</fontset>
+		<fontset>
+			<name>Constantia</name>
+			<fontlist>Constantia</fontlist>
+		</fontset>
+		<fontset>
+			<name>Corbel</name>
+			<fontlist>Corbel</fontlist>
+		</fontset>
+		<fontset>
+			<name>Franklin Gothic Medium</name>
+			<fontlist>Franklin Gothic Medium</fontlist>
+		</fontset>
+		<fontset>
+			<name>Gabriola</name>
+			<fontlist>Gabriola</fontlist>
+		</fontset>
+		<fontset>
+			<name>Georgia</name>
+			<fontlist>Georgia</fontlist>
+		</fontset>
+		<fontset>
+			<name>Palatino Linotype</name>
+			<fontlist>Palatino Linotype</fontlist>
+		</fontset>
+		<fontset>
+			<name>Segoe Print</name>
+			<fontlist>Segoe Print</fontlist>
+		</fontset>
+		<fontset>
+			<name>Trebuchet MS</name>
+			<fontlist>Trebuchet MS</fontlist>
+		</fontset>
+		<fontset>
+			<name>Verdana</name>
+			<fontlist>Verdana</fontlist>
+		</fontset>
+		<fontset>
+			<name>Webdings</name>
+			<fontlist>Webdings</fontlist>
+		</fontset>
+		<fontset>
+			<name>方正舒体</name>
+			<fontlist>方正舒体</fontlist>
+		</fontset>
+		<fontset>
+			<name>@方正舒体</name>
+			<fontlist>@方正舒体</fontlist>
+		</fontset>
+		<fontset>
+			<name>方正姚体</name>
+			<fontlist>方正姚体</fontlist>
+		</fontset>
+		<fontset>
+			<name>@方正姚体</name>
+			<fontlist>@方正姚体</fontlist>
+		</fontset>
+		<fontset>
+			<name>隶书</name>
+			<fontlist>隶书</fontlist>
+		</fontset>
+		<fontset>
+			<name>@隶书</name>
+			<fontlist>@隶书</fontlist>
+		</fontset>
+		<fontset>
+			<name>华文彩云</name>
+			<fontlist>华文彩云</fontlist>
+		</fontset>
+		<fontset>
+			<name>@华文彩云</name>
+			<fontlist>@华文彩云</fontlist>
+		</fontset>
+		<fontset>
+			<name>华文仿宋</name>
+			<fontlist>华文仿宋</fontlist>
+		</fontset>
+		<fontset>
+			<name>@华文仿宋</name>
+			<fontlist>@华文仿宋</fontlist>
+		</fontset>
+		<fontset>
+			<name>华文琥珀</name>
+			<fontlist>华文琥珀</fontlist>
+		</fontset>
+		<fontset>
+			<name>@华文琥珀</name>
+			<fontlist>@华文琥珀</fontlist>
+		</fontset>
+		<fontset>
+			<name>华文楷体</name>
+			<fontlist>华文楷体</fontlist>
+		</fontset>
+		<fontset>
+			<name>@华文楷体</name>
+			<fontlist>@华文楷体</fontlist>
+		</fontset>
+		<fontset>
+			<name>华文隶书</name>
+			<fontlist>华文隶书</fontlist>
+		</fontset>
+		<fontset>
+			<name>@华文隶书</name>
+			<fontlist>@华文隶书</fontlist>
+		</fontset>
+		<fontset>
+			<name>华文宋体</name>
+			<fontlist>华文宋体</fontlist>
+		</fontset>
+		<fontset>
+			<name>@华文宋体</name>
+			<fontlist>@华文宋体</fontlist>
+		</fontset>
+		<fontset>
+			<name>华文细黑</name>
+			<fontlist>华文细黑</fontlist>
+		</fontset>
+		<fontset>
+			<name>@华文细黑</name>
+			<fontlist>@华文细黑</fontlist>
+		</fontset>
+		<fontset>
+			<name>华文行楷</name>
+			<fontlist>华文行楷</fontlist>
+		</fontset>
+		<fontset>
+			<name>@华文行楷</name>
+			<fontlist>@华文行楷</fontlist>
+		</fontset>
+		<fontset>
+			<name>华文新魏</name>
+			<fontlist>华文新魏</fontlist>
+		</fontset>
+		<fontset>
+			<name>@华文新魏</name>
+			<fontlist>@华文新魏</fontlist>
+		</fontset>
+		<fontset>
+			<name>华文中宋</name>
+			<fontlist>华文中宋</fontlist>
+		</fontset>
+		<fontset>
+			<name>@华文中宋</name>
+			<fontlist>@华文中宋</fontlist>
+		</fontset>
+		<fontset>
+			<name>幼圆</name>
+			<fontlist>幼圆</fontlist>
+		</fontset>
+		<fontset>
+			<name>@幼圆</name>
+			<fontlist>@幼圆</fontlist>
+		</fontset>
+		<fontset>
+			<name>MT Extra</name>
+			<fontlist>MT Extra</fontlist>
+		</fontset>
+		<fontset>
+			<name>Book Antiqua</name>
+			<fontlist>Book Antiqua</fontlist>
+		</fontset>
+		<fontset>
+			<name>Century Gothic</name>
+			<fontlist>Century Gothic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bookshelf Symbol 7</name>
+			<fontlist>Bookshelf Symbol 7</fontlist>
+		</fontset>
+		<fontset>
+			<name>MS Reference Sans Serif</name>
+			<fontlist>MS Reference Sans Serif</fontlist>
+		</fontset>
+		<fontset>
+			<name>MS Reference Specialty</name>
+			<fontlist>MS Reference Specialty</fontlist>
+		</fontset>
+		<fontset>
+			<name>Freestyle Script</name>
+			<fontlist>Freestyle Script</fontlist>
+		</fontset>
+		<fontset>
+			<name>Juice ITC</name>
+			<fontlist>Juice ITC</fontlist>
+		</fontset>
+		<fontset>
+			<name>Kristen ITC</name>
+			<fontlist>Kristen ITC</fontlist>
+		</fontset>
+		<fontset>
+			<name>Lucida Handwriting</name>
+			<fontlist>Lucida Handwriting</fontlist>
+		</fontset>
+		<fontset>
+			<name>Mistral</name>
+			<fontlist>Mistral</fontlist>
+		</fontset>
+		<fontset>
+			<name>Tempus Sans ITC</name>
+			<fontlist>Tempus Sans ITC</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arial Narrow</name>
+			<fontlist>Arial Narrow</fontlist>
+		</fontset>
+		<fontset>
+			<name>Garamond</name>
+			<fontlist>Garamond</fontlist>
+		</fontset>
+		<fontset>
+			<name>Monotype Corsiva</name>
+			<fontlist>Monotype Corsiva</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bookman Old Style</name>
+			<fontlist>Bookman Old Style</fontlist>
+		</fontset>
+		<fontset>
+			<name>Algerian</name>
+			<fontlist>Algerian</fontlist>
+		</fontset>
+		<fontset>
+			<name>Baskerville Old Face</name>
+			<fontlist>Baskerville Old Face</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bauhaus 93</name>
+			<fontlist>Bauhaus 93</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bell MT</name>
+			<fontlist>Bell MT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Berlin Sans FB</name>
+			<fontlist>Berlin Sans FB</fontlist>
+		</fontset>
+		<fontset>
+			<name>Berlin Sans FB Demi</name>
+			<fontlist>Berlin Sans FB Demi</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bernard MT Condensed</name>
+			<fontlist>Bernard MT Condensed</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bodoni MT Poster Compressed</name>
+			<fontlist>Bodoni MT Poster Compressed</fontlist>
+		</fontset>
+		<fontset>
+			<name>Britannic Bold</name>
+			<fontlist>Britannic Bold</fontlist>
+		</fontset>
+		<fontset>
+			<name>Broadway</name>
+			<fontlist>Broadway</fontlist>
+		</fontset>
+		<fontset>
+			<name>Brush Script MT</name>
+			<fontlist>Brush Script MT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Californian FB</name>
+			<fontlist>Californian FB</fontlist>
+		</fontset>
+		<fontset>
+			<name>Centaur</name>
+			<fontlist>Centaur</fontlist>
+		</fontset>
+		<fontset>
+			<name>Chiller</name>
+			<fontlist>Chiller</fontlist>
+		</fontset>
+		<fontset>
+			<name>Colonna MT</name>
+			<fontlist>Colonna MT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Cooper Black</name>
+			<fontlist>Cooper Black</fontlist>
+		</fontset>
+		<fontset>
+			<name>Footlight MT Light</name>
+			<fontlist>Footlight MT Light</fontlist>
+		</fontset>
+		<fontset>
+			<name>Harlow Solid Italic</name>
+			<fontlist>Harlow Solid Italic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Harrington</name>
+			<fontlist>Harrington</fontlist>
+		</fontset>
+		<fontset>
+			<name>High Tower Text</name>
+			<fontlist>High Tower Text</fontlist>
+		</fontset>
+		<fontset>
+			<name>Jokerman</name>
+			<fontlist>Jokerman</fontlist>
+		</fontset>
+		<fontset>
+			<name>Kunstler Script</name>
+			<fontlist>Kunstler Script</fontlist>
+		</fontset>
+		<fontset>
+			<name>Lucida Bright</name>
+			<fontlist>Lucida Bright</fontlist>
+		</fontset>
+		<fontset>
+			<name>Lucida Calligraphy</name>
+			<fontlist>Lucida Calligraphy</fontlist>
+		</fontset>
+		<fontset>
+			<name>Lucida Fax</name>
+			<fontlist>Lucida Fax</fontlist>
+		</fontset>
+		<fontset>
+			<name>Magneto</name>
+			<fontlist>Magneto</fontlist>
+		</fontset>
+		<fontset>
+			<name>Matura MT Script Capitals</name>
+			<fontlist>Matura MT Script Capitals</fontlist>
+		</fontset>
+		<fontset>
+			<name>Modern No. 20</name>
+			<fontlist>Modern No. 20</fontlist>
+		</fontset>
+		<fontset>
+			<name>Niagara Engraved</name>
+			<fontlist>Niagara Engraved</fontlist>
+		</fontset>
+		<fontset>
+			<name>Niagara Solid</name>
+			<fontlist>Niagara Solid</fontlist>
+		</fontset>
+		<fontset>
+			<name>Old English Text MT</name>
+			<fontlist>Old English Text MT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Onyx</name>
+			<fontlist>Onyx</fontlist>
+		</fontset>
+		<fontset>
+			<name>Parchment</name>
+			<fontlist>Parchment</fontlist>
+		</fontset>
+		<fontset>
+			<name>Playbill</name>
+			<fontlist>Playbill</fontlist>
+		</fontset>
+		<fontset>
+			<name>Poor Richard</name>
+			<fontlist>Poor Richard</fontlist>
+		</fontset>
+		<fontset>
+			<name>Ravie</name>
+			<fontlist>Ravie</fontlist>
+		</fontset>
+		<fontset>
+			<name>Informal Roman</name>
+			<fontlist>Informal Roman</fontlist>
+		</fontset>
+		<fontset>
+			<name>Showcard Gothic</name>
+			<fontlist>Showcard Gothic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Snap ITC</name>
+			<fontlist>Snap ITC</fontlist>
+		</fontset>
+		<fontset>
+			<name>Stencil</name>
+			<fontlist>Stencil</fontlist>
+		</fontset>
+		<fontset>
+			<name>Viner Hand ITC</name>
+			<fontlist>Viner Hand ITC</fontlist>
+		</fontset>
+		<fontset>
+			<name>Vivaldi</name>
+			<fontlist>Vivaldi</fontlist>
+		</fontset>
+		<fontset>
+			<name>Vladimir Script</name>
+			<fontlist>Vladimir Script</fontlist>
+		</fontset>
+		<fontset>
+			<name>Wide Latin</name>
+			<fontlist>Wide Latin</fontlist>
+		</fontset>
+		<fontset>
+			<name>Century</name>
+			<fontlist>Century</fontlist>
+		</fontset>
+		<fontset>
+			<name>Wingdings 2</name>
+			<fontlist>Wingdings 2</fontlist>
+		</fontset>
+		<fontset>
+			<name>Wingdings 3</name>
+			<fontlist>Wingdings 3</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arial Unicode MS</name>
+			<fontlist>Arial Unicode MS</fontlist>
+		</fontset>
+		<fontset>
+			<name>@Arial Unicode MS</name>
+			<fontlist>@Arial Unicode MS</fontlist>
+		</fontset>
+		<fontset>
+			<name>Roboto</name>
+			<fontlist>Roboto</fontlist>
+		</fontset>
+		<fontset>
+			<name>Roboto Th</name>
+			<fontlist>Roboto Th</fontlist>
+		</fontset>
+	</fontsets>
+</rhpml>

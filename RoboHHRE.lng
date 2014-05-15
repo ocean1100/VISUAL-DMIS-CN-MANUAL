@@ -1,0 +1,103 @@
+﻿[GlossaryTab]
+TabCaption=术语表(&G)
+TermCaption=术语(&T)
+DefinitionCaption=术语定义(&D):
+
+[BrowseSequence]
+PreCaption=上一项
+PreTooltip=上一主题
+NextCaption=下一项
+NextTooltip=下一主题
+BlockTooltip=选择块
+
+[Common]
+Contents=目录
+Index=索引
+Search=搜索
+Glossary=术语表
+Logo/Author=提供方:
+Show=显示
+Hide=隐藏
+SyncToc=SyncToc
+Prev=<<
+Next=>>
+Disabled Prev=<<
+Disabled Next=>>
+Seperate = |
+
+[WebHelp]
+Cancel=取消
+CantOpenURLorFile=无法打开 URL 或文件
+CompletingContents=正在完成目录...
+Display=显示
+Term=术语:
+Definition=定义:
+Done=完成
+Find=查找
+IndexInputPrompt=键入要查找的关键字:
+RelateTopicListPrompt=单击某一主题，然后单击“显示”。
+LoadingData=正在载入数据，请稍候...
+LoadingContents=正在载入内容，请稍候...
+LoadingContentsData=正在载入，单击此处可取消...
+LoadingFTS=正在读取搜索数据...
+LoadingIndex=正在载入索引...
+LoadingTOCItem=正在载入目录:
+Searching=正在搜索...
+FtsInputPrompt=键入要搜索的词:
+FtsHilitePrompt=突出显示搜索结果
+TopicsFound=已找到主题
+BrowserLimitedMessage=您使用的浏览器不支持框架。建议将浏览器更新为支持框架的版本。
+SuggestViewNoFrameMessage=要不使用框架查看帮助系统请单击此
+SuggestViewNoFrameMsg2=超链接。
+TopicsNotFound=未找到主题。
+CantSearch=无法搜索该短语。
+JS_alert_appletNotLoad = 无法载入 Applet。如果您使用的是旧版本的 Netscape，则需要对 prefs.js 文件进行编辑。
+JS_alert_colorlimitation=WebHelp 检测到您的显示设置为 16 色。为完全支持 WebHelp，请将显示设置为 256 色或更高。
+Blank_topic_text=此主题由 WinHelp Project Conversion 向导创建，并且是缺失主题或无效超链接的目标。
+JS_alert_ProjectLoadingFail=无法正确载入，请单击“刷新”。
+JS_alert_cantLoadProject=无法载入项目:
+JS_alert_ErrorInLoading=载入导航组件时发生错误。请重新生成 WebHelp。
+IndexBtnText=搜索
+FtsBtnText=搜索
+ToolBarSearchBtnText=搜索
+InTopicSearchBtnText=搜索
+SearchLabel=搜索
+SearchPrompt=- 搜索 -
+PreTooltip=上一主题
+NextTooltip=下一主题
+WebSearch=WebSearch
+SyncTocTooltip=同步目录
+Book=书籍
+Page=页
+Remote_Page=远程页
+Show_Navigation_Component=显示导航组件
+Hide_Navigation_Component=隐藏导航组件
+nls_edit_label=键入问题:
+nls_button_go_hint=开始搜索
+nls_button_go_text=搜索
+nls_body_instruction=在上面的文本框中输入问题，然后单击“搜索”。
+nls_body_empty=很抱歉，无法找到适合您问题的答案。
+IndexSelectTopicTitle=选择主题
+IndexSelectTopicLabel=选择一个主题，然后单击“显示”
+IndexSelectTopicError=请选择一个主题。
+IndexAlphabetBookmarks=ABCDEFGHIJKLMNOPQRSTUVWXYZ
+MergeError1=所合并的帮助系统
+MergeError2=与主帮助系统使用的语言不同，这将会导致所合并帮助系统中的索引和全文搜索功能无效。
+MergeError3=正在使用与专家帮助系统不同的网络设置标志，这将导致帮助系统中的合并功能被禁止。
+PoweredBy=提供方:
+GeneratedBy=生成方:
+Author=作者
+About=关于
+Print=打印
+
+[PrintedDoc]
+TableOfContents=目录
+TitlePage=标题页
+ChapterFileNamePrefix=章_
+TitlePageFileName=章__标题_页.doc
+CrossReferencePrefix=请参见
+GlossaryHeadingStyleName=术语表标题
+GlossaryTermStyleName=术语表术语
+GlossaryDefinitionStyleName=术语表定义
+TitlePageTitleStyleName=标题页标题
+TocPageTitleStyleName=目录页标题
